@@ -1,0 +1,7 @@
+{
+  "optimal_threshold": 0.85,
+  "method": "hybrid",
+  "train_file": "subtask_b_train.csv",
+  "best_f1": 0.5595062018463528,
+  "training_date": "2025-11-30T14:02:44.916485"
+}

@@ -1,0 +1,1143 @@
+document_id,paragraph_id,sentence_id,sentence_text
+amato_01,1,1,COMUNE DI AMATO
+amato_01,1,2,PROVINCIA DI CATANZARO
+amato_01,1,3,(UFFICIO DEL SINDACO)
+amato_01,1,4,"Via Marconi, 14 – 88040 Amato (CZ)"
+amato_01,1,5,protocollo.amato@asmepec.it - 0961993045
+amato_01,2,6,NUOVO CALENDARIO RACCOLTA RIFIUTI
+amato_01,2,7,(Decorrenza 12/06/2023)
+amato_01,3,8,CENTRO ABITATO
+amato_01,3,9,Lunedì
+amato_01,3,10,Martedì
+amato_01,3,11,Mercoledì
+amato_01,3,12,Giovedì
+amato_01,3,13,Venerdì
+amato_01,3,14,"""UMIDO"""
+amato_01,3,15,e
+amato_01,3,16,"""INDIFFERENZIATO"""
+amato_01,3,17,"""VETRO"""
+amato_01,3,18,"(1°, 3° ed eventuale 5° martedì del mese)"
+amato_01,3,19,"""UMIDO"""
+amato_01,3,20,e
+amato_01,3,21,"""CARTA/CARTONE"""
+amato_01,3,22,"""MULTIMATERIALE"""
+amato_01,3,23,"(plastica, alluminio, lattine)"
+amato_01,3,24,"""UMIDO"""
+amato_01,3,25,e
+amato_01,3,26,(Su richiesta)
+amato_01,3,27,"Ausili per l'igiene di bambini, anziani e malati"
+amato_01,4,28,CONTRADE
+amato_01,4,29,Lunedì
+amato_01,4,30,Giovedì
+amato_01,4,31,"""INDIFFERENZIATO"" e ""VETRO"""
+amato_01,4,32,"""MULTIMATERIALE"" (plastica, alluminio, lattine) e ""CARTA/CARTONE"""
+amato_01,4,33,"RIFIUTI INGOMBRANTI E RAEE (frigoriferi, congelatori, lavatrici, lavastoviglie, tv e monitor, etc.): il servizio sarà espletato su richiesta solo ed esclusivamente previa prenotazione presso gli uffici comunali."
+amato_01,5,34,"Amato, 29/05/2023"
+amato_01,5,35,[sigillo e firma del Sindaco]
+cavaionveronese_01,1,76,"Nella plastica devono essere conferiti anche gli imballaggi in plastica delle merendine, di alimenti in genere, etc."
+cavaionveronese_01,1,77,Non utilizzare mai sacchi neri!
+cavaionveronese_01,1,78,"Sacchi e contenitori dei rifiuti vanno posizionati all'esterno della propria abitazione sul marciapiede o lungo la strada pubblica dopo le ore 21,00 e entro le 24,00 del giorno precedente la raccolta prevista da calendario."
+cavaionveronese_01,2,79,Salute e sicurezza sul lavoro. Si ricorda a tutti gli utenti che il peso massimo dei contenitori o del materiale conferibile non deve superare i 15 Kg.
+cavaionveronese_01,3,80,TIPOLOGIA DI RIFIUTO
+cavaionveronese_01,3,81,Beni durevoli / Raee
+cavaionveronese_01,3,82,Haushaltsgeräte / Durable goods
+cavaionveronese_01,3,83,"- calcolatrici, giochi elettrici"
+cavaionveronese_01,3,84,"- congelatori, frigoriferi, condizionatori"
+cavaionveronese_01,3,85,- lampade a neon
+cavaionveronese_01,3,86,- lampade a risparmio energetico
+cavaionveronese_01,3,87,- lavastoviglie e lavatrici
+cavaionveronese_01,3,88,"- lettori DVD, cellulari, PC, tablet, ecc."
+cavaionveronese_01,3,89,- piccoli elettrodomestici
+cavaionveronese_01,3,90,- sigarette elettroniche
+cavaionveronese_01,3,91,- televisori e monitor PC
+cavaionveronese_01,3,92,- stendini in resina
+cavaionveronese_01,3,93,"- tapparelle, tubi in PVC"
+cavaionveronese_01,4,94,Legno / Holz / Wood
+cavaionveronese_01,4,95,"assi, legname, tronchi"
+cavaionveronese_01,4,96,bancali in legno
+cavaionveronese_01,4,97,cassette in legno
+cavaionveronese_01,4,98,mobili in genere
+cavaionveronese_01,4,99,porte ed infissi senza vetro
+cavaionveronese_01,4,100,"tavoli, sedie ed armadi"
+cavaionveronese_01,5,101,Carta / Papier / Paper
+cavaionveronese_01,5,102,"agende, calendari..."
+cavaionveronese_01,5,103,bicchieri di carta
+cavaionveronese_01,5,104,cartone pizza
+cavaionveronese_01,5,105,"cartoni per bevande, latte, ecc. (es. tetra pak)"
+cavaionveronese_01,5,106,"depliant, pieghevoli pubblicitari"
+cavaionveronese_01,5,107,"fotocopie, poster e fogli vari"
+cavaionveronese_01,5,108,"giornali, riviste, fumetti..."
+cavaionveronese_01,5,109,imballaggi in cartone ondulato
+cavaionveronese_01,5,110,"libri, quaderni e album disegno"
+cavaionveronese_01,5,111,sacchetti di carta puliti
+cavaionveronese_01,5,112,scatole in carta per alimenti...
+cavaionveronese_01,5,113,"scatole in cartoncino per pasta, ecc."
+cavaionveronese_01,5,114,"scatole per scarpe, detersivi..."
+cavaionveronese_01,5,115,tovaglioli di carta puliti
+cavaionveronese_01,6,116,Medicinali / Arzneimittel / Medicines
+cavaionveronese_01,6,117,"disinfettanti, pomate"
+cavaionveronese_01,6,118,"farmaci scaduti, fiale per iniezioni"
+cavaionveronese_01,7,119,Pile / Batterien / Batteries
+cavaionveronese_01,7,120,pile a bottone
+cavaionveronese_01,7,121,pile a stilo o rettangolari
+cavaionveronese_01,8,122,Plastica - Lattine - Metalli - Polistirolo - Blister
+cavaionveronese_01,8,123,Kunststoff und Dosen / Plastic and tin cans
+cavaionveronese_01,8,124,- attaccapanni
+cavaionveronese_01,8,125,- bombolette spray no T/F
+cavaionveronese_01,8,126,- bottiglie in plastica di acqua e bibite
+cavaionveronese_01,8,127,- confezioni merendine
+cavaionveronese_01,8,128,- confezioni pasta
+cavaionveronese_01,8,129,- coperchi e vasetti di yogurt
+cavaionveronese_01,8,130,- flaconi in plastica di detergenti...
+cavaionveronese_01,8,131,- foglio di alluminio per alimenti
+cavaionveronese_01,8,132,- imballaggi in plastica
+cavaionveronese_01,8,133,- lattine per bevande
+cavaionveronese_01,8,134,- pellicola in nylon
+cavaionveronese_01,8,135,"- pentole, pentolini e padelle"
+cavaionveronese_01,8,136,- piatti e bicchieri monouso
+cavaionveronese_01,8,137,- sacchetti per caffè
+cavaionveronese_01,8,138,- scatolette e barattoli per alimenti
+cavaionveronese_01,8,139,- tappi per bottiglie di olio ecc.
+cavaionveronese_01,8,140,- tubetti di dentifricio e simili vuoti
+cavaionveronese_01,8,141,- tubetti in alluminio per conserve vuoti
+cavaionveronese_01,8,142,- vaschette in alluminio
+cavaionveronese_01,8,143,- vaschette in plastica o polistirolo
+cavaionveronese_01,9,144,Ferro / Eisen / Iron
+cavaionveronese_01,9,145,biciclette
+cavaionveronese_01,9,146,"caffettiere, pentole e padelle"
+cavaionveronese_01,9,147,cerchi per ruote
+cavaionveronese_01,9,148,forni e fornelli a legna e a gas
+cavaionveronese_01,9,149,reti da letto e recinzione
+cavaionveronese_01,9,150,scaffali metallici
+cavaionveronese_01,10,151,Ingombranti / Sperrmüll / Bulk rubbish
+cavaionveronese_01,10,152,attrezzi voluminosi
+cavaionveronese_01,10,153,"divani, poltrone e materassi"
+cavaionveronese_01,10,154,"grossi secchi, mastelli in plastica"
+cavaionveronese_01,10,155,mobilio da giardino in resina
+cavaionveronese_01,10,156,"onduline in vetroresina, plexiglass"
+cavaionveronese_01,11,157,Secco / Restmüll / Dry Waste
+cavaionveronese_01,11,158,accendini e penne
+cavaionveronese_01,11,159,bacinelle e secchi
+cavaionveronese_01,11,160,carta oleata per alimenti
+valsamoggia_01,1,1,Calendario 2025
+valsamoggia_01,1,2,della raccolta differenziata domiciliare.
+valsamoggia_01,1,3,"Valsamoggia - località Bazzano, Crespellano e Monteveglio"
+valsamoggia_01,2,4,"|                         | Casa | Attività commerciali, artigianali e industriali |"
+valsamoggia_01,2,5,|-------------------------|------|------------------------------------------------|
+valsamoggia_01,2,6,|                         | Casa | Attività                                       |
+valsamoggia_01,2,7,Valido da maggio a dicembre 2025.
+valsamoggia_01,2,8,Sostituisce il precedente.
+valsamoggia_01,3,9,Incredibile quello che possiamo fare insieme.
+valsamoggia_01,4,10,Comune di Valsamoggia
+valsamoggia_01,5,11,Fai un giro alla Stazione Ecologica
+valsamoggia_01,5,12,"Nelle Stazioni Ecologiche puoi portare diversi tipi di rifiuti, in particolare quelli che per tipologia o dimensione non riesci a gettare nei cassonetti. Puoi consegnare i rifiuti alle Stazioni Ecologiche convenzionate con il Comune di Valsamoggia: Castello di Serravalle, Monteveglio, Savigno. Per informazioni sui rifiuti accettati e sugli orari di apertura consulta l'app Il Rifiutologo oppure il sito www.ilrifiutologo.it."
+valsamoggia_01,5,13,In tutte le Stazioni è possibile accedere fino a 15 minuti prima della chiusura.
+valsamoggia_01,5,14,Giorni di chiusura
+valsamoggia_01,5,15,1 gennaio - 6 gennaio - giorno di Pasqua - lunedì di Pasqua
+valsamoggia_01,5,16,25 aprile - 1 maggio - 2 giugno - 15 agosto - 1 novembre
+valsamoggia_01,5,17,8 dicembre - 25 e 26 dicembre
+valsamoggia_01,6,18,"Distribuzione sacchi, bidoncini e Carta Smeraldo"
+valsamoggia_01,6,19,"Ecosportello Hera presso CDR Monteveglio - Via Abitazione, 2"
+valsamoggia_01,7,20,Orario estivo (dall'1/04 al 31/10):
+valsamoggia_01,7,21,- sabato dalle 9 alle 13 e dalle 15 alle 19.
+valsamoggia_01,7,22,Orario invernale (dall'1/11 al 31/03):
+valsamoggia_01,7,23,- sabato dalle 9 alle 13 e dalle 14 alle 18.
+valsamoggia_01,8,24,Ecosportello Hera di Bazzano
+valsamoggia_01,8,25,"Via Circonvallazione Nord, 3"
+valsamoggia_01,8,26,- lunedì dalle 8.30 alle 12.30 e dalle 13.30 alle 17.30;
+valsamoggia_01,8,27,- mercoledì e venerdì dalle 8.30 alle 12.30.
+valsamoggia_01,9,28,Servizi a chiamata solo per utenze domestiche
+valsamoggia_01,9,29,Raccolta ingombranti e RAEE
+valsamoggia_01,9,30,Raccolta rifiuti da piccole demolizioni domestiche fai da te (pseudo-edili)
+valsamoggia_01,9,31,Micro raccolta amianto
+valsamoggia_01,9,32,Compostiera
+valsamoggia_01,9,33,"(es. mobilio, materassi, frigoriferi ecc.)"
+valsamoggia_01,9,34,"(carta catramata, cartongesso, guaina bituminosa, vetroresina, lana di vetro e lana di roccia)"
+valsamoggia_01,10,35,"È possibile chiedere il ritiro gratuito a domicilio chiamando il Servizio Clienti Hera all'800.999.500 (dal lunedì al venerdì 8-22 e sabato 8-18, chiuso nei giorni festivi infrasettimanali) e tramite l'app Il Rifiutologo (servizio attivo solo per la raccolta ingombranti)."
+valsamoggia_01,11,36,Raccolta domiciliare presidi sanitari
+valsamoggia_01,11,37,"Se utilizzi presidi sanitari monouso (pannolini, ausili per l'incontinenza, sacche per dialisi…) fai richiesta all'Ecosportello per richiedere il bidone dedicato."
+valsamoggia_01,12,38,Raccolte solo per i commercianti
+valsamoggia_01,12,39,LUN
+valsamoggia_01,12,40,MAR
+valsamoggia_01,12,41,MER
+valsamoggia_01,12,42,GIO
+valsamoggia_01,12,43,VEN
+valsamoggia_01,12,44,SAB
+valsamoggia_01,12,45,DOM
+valsamoggia_01,12,46,MODALITÀ DI ESPOSIZIONE
+valsamoggia_01,12,47,Plastica e Lattine
+valsamoggia_01,12,48,●
+valsamoggia_01,12,49,●
+valsamoggia_01,12,50,Sacchi.
+valsamoggia_01,12,51,Vetro
+valsamoggia_01,12,52,●
+valsamoggia_01,12,53,Contenitori.
+valsamoggia_01,12,54,Organico
+valsamoggia_01,12,55,●
+valsamoggia_01,12,56,●
+valsamoggia_01,12,57,Contenitori.
+valsamoggia_01,12,58,Cartone selettivo
+valsamoggia_01,12,59,●
+valsamoggia_01,12,60,●
+valsamoggia_01,12,61,Sfuso.
+valsamoggia_01,12,62,Imballaggi misti (plastica e cassette di legno)
+valsamoggia_01,12,63,○
+valsamoggia_01,12,64,○
+valsamoggia_01,12,65,Sfuso.
+valsamoggia_01,13,66,Raccolte solo per le attività artigianali e industriali
+valsamoggia_01,13,67,LUN
+valsamoggia_01,13,68,MAR
+valsamoggia_01,13,69,MER
+valsamoggia_01,13,70,GIO
+valsamoggia_01,13,71,VEN
+valsamoggia_01,13,72,SAB
+valsamoggia_01,13,73,DOM
+valsamoggia_01,13,74,MODALITÀ DI ESPOSIZIONE
+valsamoggia_01,13,75,Cartone selettivo
+valsamoggia_01,13,76,●
+valsamoggia_01,13,77,Sfuso.
+valsamoggia_01,14,78,Esponi i rifiuti entro le ore 6 del giorno di raccolta indicato in questo calendario. Le nuove utenze possono richiedere le raccolte contattando il Servizio Clienti Hera all'800.999.500.
+valsamoggia_01,15,79,ATTENZIONE: non esporre il rifiuto nei contenitori. I rifiuti devono essere esposti raggruppati e accatastati.
+villasor_01,1,1,RACCOLTA DIFFERENZIATA CISA 2025
+villasor_01,1,2,UTENZE COMMERCIALI
+villasor_01,1,3,VILLASOR - NURAMINIS - MONASTIR - SAMATZAI
+villasor_01,1,4,Comune di Nuraminis prot. n. 0013013 del 17-12-2024 arrivo
+villasor_01,2,5,Prenotazioni ritiro ingombranti e sfalci verdi
+villasor_01,3,6,- Numero verde da rete fissa: 800 658-500
+villasor_01,3,7,- Numero da rete mobile: 0707320455
+villasor_01,4,8,- Orari: Dal Lunedì al Venerdì dalle ore 09.00 alle ore 13.00
+villasor_01,5,9,Esporre i rifiuti fronte strada dopo le ore 22.00 del giorno precedente la raccolta o entro le ore 05.00 del giorno di raccolta
+villasor_01,6,10,Calendario Raccolta Differenziata 2025
+villasor_01,7,11,GENNAIO
+villasor_01,7,12,FEBBRAIO
+villasor_01,7,13,MARZO
+villasor_01,7,14,APRILE
+villasor_01,7,15,1 Mercoledì - umido
+villasor_01,7,16,1 Sabato - vetro e lattine
+villasor_01,7,17,1 Sabato - vetro e lattine
+villasor_01,7,18,1 Martedì
+villasor_01,7,19,2 Giovedì - secco
+villasor_01,7,20,2 Domenica
+villasor_01,7,21,2 Domenica
+villasor_01,7,22,2 Mercoledì - umido plastica
+villasor_01,7,23,3 Venerdì - umido carta
+villasor_01,7,24,3 Lunedì - umido vetro e lattine
+villasor_01,7,25,3 Lunedì - umido vetro e lattine
+villasor_01,7,26,3 Giovedì - secco
+villasor_01,7,27,4 Sabato - vetro e lattine
+villasor_01,7,28,4 Martedì
+villasor_01,7,29,4 Martedì
+villasor_01,7,30,4 Venerdì - umido carta
+villasor_01,7,31,5 Domenica
+villasor_01,7,32,5 Mercoledì - umido plastica
+villasor_01,7,33,5 Mercoledì - umido plastica
+villasor_01,7,34,5 Sabato - vetro e lattine
+villasor_01,7,35,6 Lunedì - umido vetro e lattine
+villasor_01,7,36,6 Giovedì - secco
+villasor_01,7,37,6 Giovedì - secco
+villasor_01,7,38,6 Domenica
+villasor_01,7,39,7 Martedì
+villasor_01,7,40,7 Venerdì - umido carta
+villasor_01,7,41,7 Venerdì - umido carta
+villasor_01,7,42,7 Lunedì - umido vetro e lattine
+villasor_01,7,43,8 Mercoledì - umido plastica
+villasor_01,7,44,8 Sabato - vetro e lattine
+villasor_01,7,45,8 Sabato - vetro e lattine
+villasor_01,7,46,8 Martedì
+villasor_01,7,47,9 Giovedì - secco
+villasor_01,7,48,9 Domenica
+villasor_01,7,49,9 Domenica - umido
+villasor_01,7,50,9 Mercoledì - umido plastica
+villasor_01,7,51,10 Venerdì - carta
+villasor_01,7,52,10 Lunedì - umido vetro e lattine
+villasor_01,7,53,10 Lunedì - vetro e lattine
+villasor_01,7,54,10 Giovedì - secco
+villasor_01,7,55,11 Sabato - vetro e lattine
+villasor_01,7,56,11 Martedì
+villasor_01,7,57,11 Martedì
+villasor_01,7,58,11 Venerdì - umido carta
+villasor_01,7,59,12 Domenica
+villasor_01,7,60,12 Mercoledì - umido plastica
+villasor_01,7,61,12 Mercoledì - umido plastica
+villasor_01,7,62,12 Sabato - vetro e lattine
+villasor_01,7,63,13 Lunedì - umido vetro e lattine
+villasor_01,7,64,13 Giovedì - secco
+villasor_01,7,65,13 Giovedì - umido secco
+villasor_01,7,66,13 Domenica
+villasor_01,7,67,14 Martedì
+villasor_01,7,68,14 Venerdì - umido carta
+villasor_01,7,69,14 Venerdì - carta
+villasor_01,7,70,14 Lunedì - umido vetro e lattine
+villasor_01,7,71,15 Mercoledì - umido plastica
+villasor_01,7,72,15 Sabato - vetro e lattine
+villasor_01,7,73,15 Sabato - vetro e lattine
+villasor_01,7,74,15 Martedì
+villasor_01,7,75,16 Giovedì - secco
+villasor_01,7,76,16 Domenica
+villasor_01,7,77,16 Domenica
+villasor_01,7,78,16 Mercoledì - umido plastica
+villasor_01,7,79,17 Venerdì - umido carta
+villasor_01,7,80,17 Lunedì - umido vetro e lattine
+villasor_01,7,81,17 Lunedì - umido vetro e lattine
+villasor_01,7,82,17 Giovedì - secco
+villasor_01,7,83,18 Sabato - vetro e lattine
+villasor_01,7,84,18 Martedì
+villasor_01,7,85,18 Martedì
+villasor_01,7,86,18 Venerdì - umido carta
+villasor_01,7,87,19 Domenica
+villasor_01,7,88,19 Mercoledì - umido plastica
+villasor_01,7,89,19 Mercoledì - umido plastica
+villasor_01,7,90,19 Sabato - vetro e lattine
+villasor_01,7,91,20 Lunedì - umido vetro e lattine
+villasor_01,7,92,20 Giovedì - secco
+villasor_01,7,93,20 Giovedì - secco
+villasor_01,7,94,20 Domenica
+villasor_01,7,95,21 Martedì
+villasor_01,7,96,21 Venerdì - umido carta
+villasor_01,7,97,21 Venerdì - umido carta
+villasor_01,7,98,21 Lunedì - umido vetro e lattine
+villasor_01,7,99,22 Mercoledì - umido plastica
+villasor_01,7,100,22 Sabato - vetro e lattine
+villasor_01,7,101,22 Sabato - vetro e lattine
+villasor_01,7,102,22 Martedì
+villasor_01,7,103,23 Giovedì - secco
+villasor_01,7,104,23 Domenica
+villasor_01,7,105,23 Domenica
+villasor_01,7,106,23 Mercoledì - umido plastica
+villasor_01,7,107,24 Venerdì - umido carta
+villasor_01,7,108,24 Lunedì - umido vetro e lattine
+villasor_01,7,109,24 Lunedì - umido vetro e lattine
+villasor_01,7,110,24 Giovedì - secco
+villasor_01,7,111,25 Sabato - vetro e lattine
+villasor_01,7,112,25 Martedì
+villasor_01,7,113,25 Martedì
+villasor_01,7,114,25 Venerdì - umido carta
+villasor_01,7,115,26 Domenica
+villasor_01,7,116,26 Mercoledì - umido plastica
+villasor_01,7,117,26 Mercoledì - umido plastica
+villasor_01,7,118,26 Sabato - vetro e lattine
+villasor_01,7,119,27 Lunedì - umido vetro e lattine
+villasor_01,7,120,27 Giovedì - secco
+villasor_01,7,121,27 Giovedì - secco
+villasor_01,7,122,27 Domenica
+villasor_01,7,123,28 Martedì
+villasor_01,7,124,28 Venerdì - umido carta
+villasor_01,7,125,28 Venerdì - umido carta
+villasor_01,7,126,28 Lunedì - umido vetro e lattine
+villasor_01,7,127,29 Mercoledì - umido plastica
+villasor_01,7,128,29 Sabato - vetro e lattine
+villasor_01,7,129,29 Martedì
+villasor_01,7,130,30 Giovedì - secco
+villasor_01,7,131,30 Domenica
+villasor_01,7,132,30 Mercoledì - umido plastica
+villasor_01,7,133,31 Venerdì - umido carta
+villasor_01,7,134,31 Lunedì - umido vetro e lattine
+bagnacavallo_01,1,1,Maltempo: informazioni per la raccolta rifiuti
+bagnacavallo_01,2,2,Hera ha predisposto un servizio straordinario di raccolta rifiuti per chi è stato colpito dagli allagamenti di questi ultimi giorni.
+bagnacavallo_01,3,3,Data:
+bagnacavallo_01,3,4,17/05/2024
+bagnacavallo_01,4,5,Argomenti
+bagnacavallo_01,4,6,Gestione dell'ambiente
+bagnacavallo_01,4,7,Gestione rifiuti
+bagnacavallo_01,5,8,Tipologia di contenuto
+bagnacavallo_01,5,9,* Notizia
+bagnacavallo_01,6,10,Descrizione
+bagnacavallo_01,6,11,Hera ha predisposto un servizio straordinario di raccolta rifiuti per chi è stato colpito dagli allagamenti di questi ultimi giorni.
+bagnacavallo_01,6,12,Per prenotare il ritiro è possibile contattare il Servizio Clienti Hera 800999500 (numero verde gratuito attivo dal lunedì al venerdì dalle 8 alle 22 e il sabato dalle 8 alle 18).
+bagnacavallo_01,6,13,Si ricorda che è comunque sempre possibile conferire i rifiuti presso la Stazione ecologica di via Cogollo (orari di apertura annuale):
+bagnacavallo_01,6,14,"lunedì, mercoledì, venerdì dalle 12 alle 18;"
+bagnacavallo_01,6,15,martedì e giovedì dalle 8.30 alle 14.30;
+bagnacavallo_01,6,16,sabato dalle 8.30 alle 17.30 e domenica dalle 9.30 alle 12.30;
+bagnacavallo_01,6,17,oppure esporli secondo il calendario di raccolta porta a porta.
+bagnacavallo_01,7,18,A cura di
+bagnacavallo_01,7,19,Cultura Comunicazione e Partecipazione
+bagnacavallo_01,7,20,"Cultura ed eventi, Comunicazione, Partecipazione e Decentramento"
+bagnacavallo_01,8,21,Ultimo aggiornamento
+bagnacavallo_01,8,22,Ultimo aggiornamento: 12/09/2024 12:00
+sangiorgiodelsannio_01,1,1,DISTRIBUZIONE KIT
+sangiorgiodelsannio_01,1,2,RACCOLTA DIFFERENZIATA
+sangiorgiodelsannio_01,2,3,"Si informa la cittadinanza che i kit per la raccolta differenziata saranno distribuiti con cadenza trimestrale a tutte le famiglie residenti e alle attività commerciali iscritte al ruolo TARI, secondo le seguenti modalità:"
+sangiorgiodelsannio_01,2,4,EX SEDE COMUNALEPiazza IV Novembre
+sangiorgiodelsannio_01,2,5,"EX EDIFICIO SCUOLAVia Cesine, 48"
+sangiorgiodelsannio_01,2,6,"EX EDIFICIO SCUOLAVia San Giovanni, 66"
+sangiorgiodelsannio_01,2,7,da Lunedì 14 Aprilea Venerdì 18 aprile 2025dalle ore 09:15 alle ore 12:30
+sangiorgiodelsannio_01,2,8,Martedì 22 aprile 2025dalle ore 09:15 alle ore 12:30
+sangiorgiodelsannio_01,2,9,Giovedì 24 aprile 2025dalle ore 09:15 alle ore 12:30
+sangiorgiodelsannio_01,2,10,Lunedì 14 aprile     Cognomi dalla A alla D
+sangiorgiodelsannio_01,2,11,Martedì 15 aprile     Cognomi dalla E alla H
+sangiorgiodelsannio_01,2,12,Mercoledì 16 aprile     Cognomi dalla I alla N
+sangiorgiodelsannio_01,2,13,Giovedì 17 aprile     Cognomi dalla O alla R
+sangiorgiodelsannio_01,2,14,Venerdì 18 aprile     Cognomi dalla S alla Z
+sangiorgiodelsannio_01,2,15,Cognomi dalla A alla Z
+sangiorgiodelsannio_01,2,16,Cognomi dalla A alla Z
+sangiorgiodelsannio_01,8,17,Attenzione:
+sangiorgiodelsannio_01,8,18,"Per il ritiro ciascun utente dovrà OBBLIGATORIAMENTE presentare la TESSERA SANITARIA, un DOCUMENTO D'IDENTITÀ in corso di validità, la RICEVUTA dell'ultima TARI PAGATA, ed eventuale DELEGA se il ritiro non è fatto personalmente dall'intestatario TARI."
+sangiorgiodelsannio_01,8,19,"Chi non riuscirà a ritirare i sacchetti nei giorni indicati, potrà farlo ogni mercoledì presso l'ex Casa Comunale. Questa possibilità è estesa anche agli utenti delle zone di Cesine e San Giovanni."
+sangiorgiodelsannio_01,8,20,L'UTILIZZO DEI SACCHETTI DISTRIBUITI DOVRÀ AVVENIRE A PARTIRE DAL 5 MAGGIO 2025
+sangiorgiodelsannio_01,9,21,Grazie per la vostra collaborazione.
+sangiorgiodelsannio_01,10,22,NOVITÀ
+sangiorgiodelsannio_01,10,23,A San Giorgio del Sannio è arrivata l'App che ti aiuta a fare la raccolta differenziata!
+sangiorgiodelsannio_01,10,24,"Rifiuti smart: Calendario porta-a-porta e promemoria, info ingombranti, glossario del riciclo;"
+sangiorgiodelsannio_01,11,25,"News: Comunica notizie, eventi legati al sito comunale;"
+sangiorgiodelsannio_01,12,26,"Riconoscimento codice a barre: Riconoscimento dei prodotti tramite la lettura del codice a barre/etichetta; in questo modo è possibile conoscere, in modo facile e veloce, dove conferire qualsiasi tipologia di prodotto;"
+sangiorgiodelsannio_01,13,27,Geolocalizzazione dell'utente
+sangiorgiodelsannio_01,14,28,Schede informative con:
+sangiorgiodelsannio_01,14,29,"buone pratiche,"
+sangiorgiodelsannio_01,14,30,"info e orari,"
+sangiorgiodelsannio_01,14,31,"suggerimenti,"
+sangiorgiodelsannio_01,14,32,approfondimenti.
+sangiorgiodelsannio_01,14,33,Scarica l'App
+sangiorgiodelsannio_01,14,34,[QR code for App Store]
+sangiorgiodelsannio_01,14,35,[QR code for Google Play]
+sangiorgiodelsannio_01,14,36,www.junkerapp.it
+sangiorgiodelsannio_01,15,37,Per info e segnalazioni
+sangiorgiodelsannio_01,15,38,Numero Verde 0824 843276
+sangiorgiodelsannio_01,15,39,Dal Lunedì al Venerdì
+sangiorgiodelsannio_01,15,40,dalle ore 9:00 alle 12:30
+selliamarina_01,1,1,Raccolta indumenti dismessi
+selliamarina_01,1,2,Si comunicano le modalità di conferimento di indumenti dismessi
+selliamarina_01,2,3,Data:
+selliamarina_01,2,4,19 mag 2025
+selliamarina_01,3,5,Argomenti
+selliamarina_01,3,6,Sviluppo sostenibile
+selliamarina_01,4,7,Descrizione
+selliamarina_01,4,8,"Gli abiti, le scarpe e la biancheria da casa che non usiamo più si possono conferire presso il Centro comunale di raccolta sito in via Barlaam da Seminara (località San Simone). Si prega di specificare, al momento del conferimento se gli indumenti si trovano in buono stato, ossia possono essere destinati al riutilizzo, oppure sono da conferire come rifiuto."
+selliamarina_01,5,9,Pagina aggiornata il 04/08/2025
+settimomilanese_01,1,1,Servizio gestito da
+settimomilanese_01,1,2,Amsa
+settimomilanese_01,1,3,GRUPPO a2a
+settimomilanese_01,2,4,Il calendario raccolta CAM di Settimo Milanese 2025
+settimomilanese_01,3,5,Scopri dove e quando puoi trovare il Centro Ambientale Mobile più vicino a te.
+settimomilanese_01,4,6,Quando ci prendiamo cura dell'ambiente la vita è più azzurra
+settimomilanese_01,5,7,a2a
+settimomilanese_01,5,8,LIFE COMPANY
+settimomilanese_01,5,9,dalle 8.00 alle 12.00
+settimomilanese_01,5,10,Via Meriggia
+settimomilanese_01,5,11,Area parcheggio
+settimomilanese_01,5,12,14/01/25 • 09/05/25 • 16/09/25
+settimomilanese_01,5,13,Via Airaghi
+settimomilanese_01,5,14,Area parcheggio - Mercato
+settimomilanese_01,5,15,13/02/25 • 09/06/25 • 09/10/25
+settimomilanese_01,5,16,Via Buozzi
+settimomilanese_01,5,17,Area parcheggio - Mercato
+settimomilanese_01,5,18,10/03/25 • 10/07/25 • 15/12/25
+settimomilanese_01,5,19,Via Reiss Romoli
+settimomilanese_01,5,20,Area parcheggio - Centro Commerciale
+settimomilanese_01,5,21,05/04/25 • 23/08/25 • 15/11/25
+settimomilanese_01,6,22,Cosa puoi portare al CAM
+settimomilanese_01,6,23,LAMPADINE
+settimomilanese_01,6,24,TONER
+settimomilanese_01,6,25,PILE
+settimomilanese_01,6,26,OLI VEGETALI
+settimomilanese_01,6,27,OLI MINERALI
+settimomilanese_01,6,28,BOMBOLETTE SPRAY
+settimomilanese_01,6,29,ELETTRONICA
+settimomilanese_01,6,30,TV E SCHERMI
+settimomilanese_01,6,31,NEON
+settimosanpietro_01,1,368,"Tutti gli utenti dell'Unione dei Comuni potranno conferire i rifiuti ingombranti e, in caso di necessità particolari, i rifiuti differenziati, direttamente presso l'ecocentro situato in via Mattei nella Zona Industriale di Dolianova, gestito dalla Società COSIR, senza aspettare che gli operatori vengano a ritirarli a domicilio."
+settimosanpietro_01,2,369,L'ecocentro (tel. 070 7442022) è aperto con i seguenti orari:
+settimosanpietro_01,2,370,MAR – MER – GIO – VEN – SAB ore 09:00 – 13:00
+settimosanpietro_01,2,371,MAR – GIO ore 15:00 – 17:00
+settimosanpietro_01,3,372,CONFERIMENTO DEI RIFIUTI ALL'ECOCENTRO COMUNALE DI SETTIMO SAN PIETRO
+settimosanpietro_01,4,373,"I cittadini residenti o domiciliati nel Comune di Settimo San Pietro potranno conferire i rifiuti ingombranti e, in caso di necessità particolari, i rifiuti differenziati, direttamente presso l'ecocentro situato in via Mattei nell'area PIP di Settimo San Pietro, gestito dalla Società COSIR, senza aspettare che gli operatori vengano a ritirarli a domicilio."
+settimosanpietro_01,5,374,L'ecocentro (tel. 070 781388) è aperto con i seguenti orari:
+settimosanpietro_01,5,375,LUN - MAR – MER – GIO – VEN – SAB ore 09:00 – 12:00
+settimosanpietro_01,5,376,GIO ore 15:00 – 18:00
+settimosanpietro_01,6,377,LE ZONE DI RACCOLTA
+settimosanpietro_01,7,378,"A causa della loro estensione, Dolianova e Settimo San Pietro sono divisi in due Zone, nelle quali la raccolta viene fatta a giorni alterni."
+settimosanpietro_01,7,379,Le Zone sono le seguenti:
+settimosanpietro_01,7,380,Dolianova
+settimosanpietro_01,7,381,Zona 1: è quella a sinistra dell'asse: Via Santa Maria > Via Roma > Via Diaz (San Pantaleo);
+settimosanpietro_01,7,382,Zona 2: è quella a destra dell'asse: Via Santa Maria > Via Roma > Via Diaz (San Biagio);
+settimosanpietro_01,7,383,Dolianova
+settimosanpietro_01,7,384,ZONA 1
+settimosanpietro_01,7,385,ZONA 2
+settimosanpietro_01,7,386,Area a sinistra dell'asse: Via Santa Maria > Via Roma > Via Diaz (San Pantaleo)
+settimosanpietro_01,7,387,Area a destra dell'asse: Via Santa Maria > Via Roma > Via Diaz (San Biagio)
+settimosanpietro_01,7,388,Settimo San Pietro
+settimosanpietro_01,7,389,Zona 1: è quella a sinistra dell'asse: Via Fratelli Rosselli > Via IV Novembre > Via Gramsci > Via Tagliamento (parte alta verso Sinnai);
+settimosanpietro_01,7,390,Zona 2: è quella a destra dell'asse: Via Fratelli Rosselli > Via IV Novembre > Via Gramsci > Via Tagliamento (parte bassa verso Selargius);
+settimosanpietro_01,7,391,Settimo San Pietro
+settimosanpietro_01,7,392,ZONA 1
+settimosanpietro_01,7,393,ZONA 2
+settimosanpietro_01,7,394,Area a sinistra dell'asse: Via Fratelli Rosselli > Via IV Novembre > Via Gramsci > Via Tagliamento (parte alta verso Sinnai)
+baiano_01,1,30,4 PRESTAZIONI SOGGETTE A STANDARD DI QUALITA' ......................... 13
+baiano_01,1,31,4.1 Gli obblighi di servizio e qualità contrattuale ................................................................... 13
+baiano_01,1,32,"4.2 Modalità di attivazione del servizio e tempo di risposta (ARTICOLI 6, 7 e 8) ............ 13"
+baiano_01,1,33,4.3 Richiesta attrezzature per la raccolta – (ARTICOLO 9) .................................................. 14
+baiano_01,1,34,"4.4 Modalità per la variazione o cessazione del servizio e tempo di risposta (Art 10, 11 e 12) . 15"
+baiano_01,1,35,"4.5 Procedura per la gestione dei reclami, delle richieste scritte di informazioni e di rettifica degli importi addebitati e tempo di risposta (Articolo 13, 14, all'Articolo 17 e all'Articolo 18) ...................................................................................................................... 16"
+baiano_01,1,36,4.6 Obblighi e requisiti minimi dello sportello fisico e online (Art. 19 e 22). (NON APPLICATO NELLO SCHEMA 1) ............................................................................................ 17
+baiano_01,1,37,4.7 Obblighi di servizio telefonico (Articolo 20 e all'Articolo 22) ........................................ 17
+baiano_01,1,38,"4.8 Modalità e periodicità di pagamento, rateizzazione e rettifica degli importi non dovuti (Titolo V, ad eccezione dell'Articolo 28.3) ............................................................ 18"
+baiano_01,1,39,4.9 Indennizzi riconosciuti agli utenti in caso di violazione degli standard di qualità e delle modalità di riconoscimento ....................................................................................... 19
+baiano_01,1,40,5 TRASPARENZA ......................................................................................... 19
+baiano_01,1,41,6 LA TUTELA DELLA PRIVACY .................................................................... 19
+baiano_01,1,42,7 IL DIRITTO DI ACCESSO ........................................................................... 20
+baiano_01,1,43,8 PUNTI DI CONTATTO CON L'UTENTE .................................................... 20
+baiano_01,1,44,"9 IL GESTORE DEL SERVIZIO DI RACCOLTA E TRASPORTO, SPAZZAMENTO E LAVAGGIO DELLE STRADE ..................................................................... 21"
+baiano_01,1,45,9.1 Dati del Gestore ...................................................................................................................... 21
+baiano_01,1,46,9.2 Territorio servito .................................................................................................................... 21
+baiano_01,1,47,9.3 Il servizio fornito di Raccolta e Trasporto ........................................................................... 22
+baiano_01,1,48,9.4 Il servizio fornito di Spazzamento e Lavaggio ................................................................. 25
+baiano_01,1,49,9.5 Certificazioni adottate dal Gestore .................................................................................. 26
+baiano_01,1,50,9.6 Eventuali cause di interruzione del servizio programmato ....................................... 27
+baiano_01,1,51,9.7 Principi ai quali si ispira il gestore nell'espletamento delle proprie attività ........ 27
+baiano_01,1,52,10 PRESTAZIONI SOGGETTE A STANDARD DI QUALITA' ............................. 31
+baiano_01,1,53,10.1 GLI OBBLIGHI DI SERVIZIO .................................................................................................... 31
+baiano_01,1,54,10.2 Obblighi e requisiti minimi dello sportello fisico e online (Art. 19 e 22) .................... 31
+baiano_01,1,55,10.3 Obblighi di servizio telefonico (Articolo 20 e all'Articolo 22) ........................................ 32
+baiano_01,1,56,10.4 Obblighi in materia di servizi di ritiro su chiamata e modalità per l'ottenimento di tali servizi (Art. 29 e 30). ..................................................................................................... 33
+baiano_01,1,57,10.5 Obblighi in materia di disservizi e riparazione delle attrezzature per la raccolta domiciliare Art 32 ................................................................................................................... 34
+baiano_01,1,58,10.6 Predisposizione di una mappatura delle diverse aree di raccolta e prossimità Articolo 35.1 ............................................................................................................................ 35
+baiano_01,1,59,10.7 Predisposizione di un Programma delle attività di raccolta e trasporto Art. 35.2 ... 35
+baiano_01,1,60,10.8 Predisposizione di un Programma delle attività di Spazzamento e Lavaggio delle strade Articolo 42.1. .............................................................................................................. 36
+baiano_01,1,61,10.9 Obblighi in materia di sicurezza del servizio di gestione dei rifiuti urbani - Articolo 48 ................................................................................................................................ 37
+baiano_01,1,62,11 TRASPARENZA .......................................................................................... 37
+baiano_01,1,63,12 LA TUTELA DELLA PRIVACY ...................................................................... 38
+baiano_01,1,64,13 PUNTI DI CONTATTO CON L'UTENTE ...................................................... 38
+baiano_01,1,65,14 VALIDITÀ DELLA CARTA DEL SERVIZIO ......................................................... 38
+baiano_01,2,66,PREMESSA
+baiano_01,3,67,"La Carta della qualità del servizio è il documento, redatto in conformità alla normativa in vigore, in cui sono specificati gli obblighi e i livelli di qualità attesi per i servizi erogati e le loro modalità di fruizione, incluse le regole di relazione tra utenti e gestore del servizio di gestione dei rifiuti urbani (art.1 del testo unico per la regolazione della qualità del servizio di gestione dei rifiuti urbani TQRIF Allegato ""A"" della deliberazione ARERA 18 gennaio 2022 15/2022/R/rif)."
+baiano_01,3,68,"Con la Carta della qualità il soggetto gestore sancisce il proprio impegno ad assicurare ai cittadini-utenti un determinato livello di qualità delle prestazioni erogate, in modo da garantire la chiarezza del rapporto e il miglioramento continuo del servizio."
+baiano_01,3,69,"La Carta è anche uno strumento di comunicazione, il cui fine è di implementare la qualità dei servizi pubblici erogati anche attraverso una maggiore informazione e partecipazione degli utenti destinatari degli stessi, che da attori passivi dei servizi medesimi ne diventano parte attiva nelle forme e nei limiti previsti dalla normativa vigente e specificate dalla Carta stessa, dal Regolamento comunale in materia di accesso e partecipazione."
+baiano_01,3,70,"La nuova regolazione sulla qualità del servizio rifiuti, introdotta dall'ARERA con la deliberazione 18 gennaio 2022 15/2022/R/rif, pone in capo all'Ente territorialmente competente l'obbligo di approvare per ogni gestione un'unica Carta della qualità del servizio integrato di gestione dei rifiuti urbani. In caso di pluralità di gestori dei singoli servizi, l'Ente territorialmente competente integra in un unico testo coordinato i contenuti delle Carte di qualità predisposte dai singoli gestori ciascuno per i servizi di rispettiva competenza (art.5.1 del TQRIF)."
+baiano_01,3,71,La Carta della qualità del servizio integrato di gestione dei rifiuti urbani dovrà poi:
+baiano_01,3,72,"essere pubblicata sul sito web del gestore del servizio integrato, ovvero di ciascun gestore dei singoli servizi che lo compongono;"
+maglie_01,1,1,CARTA DELLA QUALITA'
+maglie_01,1,2,DEL SERVIZIO DI GESTIONE INTEGRATA DEI RIFIUTI URBANI
+maglie_01,1,3,GESTIONE TARIFFA E RAPPORTI CON GLI UTENTI
+maglie_01,2,4,Comune di Maglie
+maglie_01,2,5,Autorità per il servizio di gestione integrata dei rifiuti urbani
+maglie_01,2,6,AGER PUGLIA
+maglie_01,3,7,Generato con gestionequalitarifiuti.it - un progetto Golem Net srl
+maglie_01,4,8,Sommario
+maglie_01,4,9,DEFINIZIONI ............................................................................................................................. 3
+maglie_01,4,10,PRINCIPI FONDAMENTALI E CAUSE DI FORZA MAGGIORE ............................................. 9
+maglie_01,4,11,INTRODUZIONE GESTORE TARIFFA E RAPPORTO CON GLI UTENTI ........................... 12
+maglie_01,4,12,MODALITÀ DI PRELIEVO ..................................................................................................... 13
+maglie_01,4,13,MODALITÀ DI ATTRIBUZIONE DELLA PARTE VARIABILE .............................................. 13
+maglie_01,4,14,MODALITÀ DI RISCOSSIONE .............................................................................................. 13
+maglie_01,4,15,RIFERIMENTI DEL GESTORE TRU: Comune di Maglie ..................................................... 14
+maglie_01,4,16,Accesso ai servizi da parte degli utenti ............................................................................... 14
+maglie_01,4,17,Contatti per i servizi Tariffa e Rapporto con gli Utenti ................................................... 14
+maglie_01,4,18,OGGETTO ED AMBITO DI APPLICAZIONE ........................................................................ 16
+maglie_01,4,19,INQUADRAMENTO DELLA GESTIONE NELLO SCHEMA REGOLATORIO ...................... 17
+maglie_01,4,20,OBBLIGHI DI SERVIZIO E RELATIVI STANDARD DI QUALITÀ PREVISTI DA ARERA ................................................................................................................................................. 18
+maglie_01,4,21,"ATTIVAZIONE, VARIAZIONE E CESSAZIONE DEL SERVIZIO .......................................... 19"
+maglie_01,4,22,Modalità per l'attivazione del servizio di gestione dei rifiuti urbani ..................................... 19
+maglie_01,4,23,Tempo di risposta alle richieste di attivazione del servizio (Articolo 8.1 TQRIF) .................. 19
+maglie_01,4,24,Obbligo di consegna delle attrezzature per la raccolta (Articolo 9 TQRIF) ........................... 19
+maglie_01,4,25,Modalità per la variazione o cessazione del servizio (Articolo 10 TQRIF) ............................. 19
+maglie_01,4,26,Obbligo di risposta alle richieste di variazione o di cessazione del servizio (Articolo 12 TQRIF) ................................................................................................................................. 19
+maglie_01,4,27,"RECLAMI, RICHIESTE SCRITTE DI INFORMAZIONI E DI RETTIFICA DEGLI IMPORTI ADDEBITATI .......................................................................................................... 21"
+maglie_01,4,28,"Modalità per l'invio di reclami scritti, informazioni e rettifiche importi addebitati ................ 21"
+maglie_01,4,29,Classificazione delle richieste scritte dell'utente (Articolo 13 TQRIF) ................................ 21
+maglie_01,4,30,"Obbligo di risposta motivata ai reclami scritti, informazioni e rettifiche importi addebitati (Articoli 14, 15, 16 TQRIF) .................................................................................... 21"
+maglie_01,4,31,PUNTI DI CONTATTO CON L'UTENTE ............................................................................... 22
+maglie_01,4,32,Obbligo di servizio telefonico (Articolo 20 TQRIF) ............................................................... 22
+maglie_01,4,33,Contenuti informativi minimi dei punti di contatto con l'utente (Articolo 22 TQRIF) ............ 22
+maglie_01,4,34,"MODALITÀ E PERIODICITÀ DI PAGAMENTO, RATEIZZAZIONE E RETTIFICA DEGLI IMPORTI NON DOVUTI ............................................................................................. 23"
+maglie_01,4,35,Termine per il pagamento e periodicità di riscossione (Articolo 23 TQRIF) ............................. 23
+maglie_01,4,36,Modalità e strumenti di pagamento in regime di TARI (Articolo 24 TQRIF) .......................... 23
+maglie_01,4,37,Periodicità di riscossione (articolo 26 TQRIF) ...................................................................... 23
+maglie_01,4,38,Modalità per la rateizzazione dei pagamenti (Articolo 27 TQRIF) .......................................... 23
+maglie_01,4,39,Obbligo di rettifica degli importi non dovuti (Articolo 28.3 TQRIF) ....................................... 24
+maglie_01,5,40,Autorità per il servizio di gestione integrata dei rifiuti urbani
+maglie_01,5,41,AGER PUGLIA
+maglie_01,6,42,DEFINIZIONI
+maglie_01,6,43,Attivazione è l'avvio del servizio integrato di gestione dei rifiuti urbani;
+maglie_01,6,44,Attività di gestione tariffe e rapporto con gli utenti comprende le operazioni di:
+maglie_01,6,45,"accertamento, riscossione (incluse le attività di bollettazione e l'invio degli avvisi di pagamento ovvero l'attività di fatturazione);"
+maglie_01,6,46,gestione del rapporto con gli utenti (inclusa la gestione reclami) anche mediante sportelli dedicati o call-center;
+maglie_01,6,47,"gestione della banca dati degli utenti e delle utenze, dei crediti e del contenzioso;"
+maglie_01,6,48,promozione di campagne ambientali;
+maglie_01,6,49,* prevenzione della produzione di rifiuti urbani;
+maglie_01,6,50,"Attività di raccolta e trasporto comprende le operazioni di raccolta (svolta secondo diversi modelli di organizzazione del servizio) e di trasporto dei rifiuti urbani verso impianti di trattamento, di smaltimento, di riutilizzo e/o recupero;"
+maglie_01,6,51,"Attività di spazzamento e lavaggio delle strade comprende le operazioni di spazzamento - meccanizzato, manuale e misto - e di lavaggio delle strade e del suolo pubblico, svuotamento cestini e raccolta foglie, escluse le operazioni di sgombero della neve dalla sede stradale e sue pertinenze, effettuate al solo scopo di garantire la loro fruibilità e la sicurezza del transito;"
+maglie_01,6,52,Autorità è l'Autorità di Regolazione per Energia Reti e Ambiente;
+maglie_01,6,53,"Carta della qualità è il documento, redatto in conformità alla normativa in vigore, in cui sono specificati gli obblighi e i livelli di qualità attesi per i servizi erogati e le loro modalità di fruizione, incluse le regole di relazione tra utenti e gestore del servizio di gestione dei rifiuti urbani;"
+maglie_01,6,54,Centro di raccolta è la struttura conforme ai requisiti di cui al decreto del Ministero dell'ambiente e della tutela del territorio e del mare 8 aprile 2008;
+maglie_01,6,55,"Cessazione del servizio è la decadenza dei presupposti per il pagamento della tariffa e la contestuale disattivazione del servizio nel caso di raccolta domiciliare o di raccolta stradale e di prossimità con accesso controllato, a seguito della comunicazione attestante la data in cui è intervenuta tale cessazione;"
+brindisi_01,1,53,L'operatore economico selezionato dovrà:
+brindisi_01,1,54,garantire il rispetto dell'identità visiva e del logo istituzionale del Comune di Brindisi;
+brindisi_01,1,55,concordare con l'Amministrazione ogni contenuto prima della diffusione;
+brindisi_01,1,56,rispettare le norme in materia di privacy e comunicazione istituzionale;
+brindisi_01,1,57,collaborare con gli uffici comunali e con eventuali altri soggetti coinvolti nel progetto.
+brindisi_01,2,58,ART.3 - SOGGETTI AMMESSI A PRESENTARE MANIFESTAZIONE DI INTERESSE
+brindisi_01,2,59,Possono manifestare interesse gli operatori economici che:
+brindisi_01,2,60,"siano in possesso dei requisiti di ordine generale ex artt. 94, 95, 96, 97 D.Lgs. 36/2023 e ss.mm.ii.;"
+brindisi_01,2,61,abbiano comprovata esperienza in almeno una delle seguenti attività:
+brindisi_01,2,62,campagne di comunicazione e sensibilizzazione ambientale;
+brindisi_01,2,63,attività di educazione ambientale rivolte a cittadini e scuole;
+brindisi_01,2,64,realizzazione di prodotti multimediali e strumenti informativi per la Pubblica Amministrazione.
+brindisi_01,3,65,Art.4 - REQUISITI DI PARTECIPAZIONE
+brindisi_01,3,66,"Gli operatori economici che intendono partecipare alla presente procedura dovranno essere in possesso dei requisiti ai sensi degli artt. 46 e 47 del D.P.R. 445/2000 e degli artt. dal 94 al 98 del ""Nuovo Codice"":"
+brindisi_01,3,67,a. Cittadinanza italiana;
+brindisi_01,3,68,b. Godimento dei diritti di elettorato politico attivo;
+brindisi_01,3,69,"c. Insussistenza di condizioni che comportino il divieto a contrarre con una Pubblica Amministrazione, ivi comprese tutte le ipotesi di cui all'art. dal 94 al 98 del D.lgs. n.36/2023 e s.m.i.;"
+brindisi_01,3,70,"d. Non essere stato destituito, dispensato o licenziato dall'impiego presso una pubblica Amministrazione per persistente insufficiente rendimento ovvero non essere stato dichiarato decaduto da un impiego statale ai sensi dell'art. 127, comma1, lett.O) del DPR 10/01/1957, n.3 (T.U. Imp. Civ. St.) e ss.mm.ii."
+brindisi_01,3,71,"e. Insussistenza delle cause di esclusione di cui all'art. 1 bis, comma 14, legge n. 383/2001 e s.m.i;"
+giardininaxos_01,1,1,COMUNE DI GIARDINI NAXOS
+giardininaxos_01,1,2,Città Metropolitana di Messina
+giardininaxos_01,2,3,AVVISO
+giardininaxos_01,3,4,"Si invitano gli Amministratori dei Condomini di Giardini Naxos a contattare il n. telefonico 0942/5780218, al fine di istituire all'interno di ciascun Condominio delle aree attrezzate per la raccolta dei rifiuti differenziati;"
+giardininaxos_01,3,5,"A seguito di incontro, tra rappresentante della Ditta appaltante e rappresentante del Comune di Giardini Naxos, si procederà alla consegna dei cassonetti da utilizzare per lo smaltimento, gli stessi verranno regolarmente svuotati dagli operatori addetti al servizio, nei giorni indicati dal calendario fornito all'utenza."
+giardininaxos_01,3,6,"Si chiede la massima collaborazione, al fine di rendere effettivo e celere il servizio in questione."
+giardininaxos_01,4,7,L'Assessore all'igiene e sanità
+giardininaxos_01,4,8,(Dott. Pollastri Giampiero)
+giuglianoincampania_01,1,11,"euro 19.012,00 per le famiglie composte da 2 persone compreso l'invalido;"
+giuglianoincampania_01,1,12,"euro 16.764,00 per le famiglie composte da 3 persone compreso l'invalido;"
+giuglianoincampania_01,1,13,"euro 15.569,00 per le famiglie composte da 4 persone compreso l'invalido;"
+giuglianoincampania_01,1,14,"euro 14.824,00 per le famiglie composte da 5 o più persone compreso l'invalido;"
+giuglianoincampania_01,1,15,"Una Riduzione del 30% per ragazze madri, ragazzi padri, persone legalmente separate o vedove/i, a condizione che:"
+giuglianoincampania_01,1,16,abbiano almeno un figlio minore a carico;
+giuglianoincampania_01,1,17,"l'indicatore della situazione economica equivalente (ISEE) della famiglia sia inferiore ad € 11.500,00 + euro 500,00 per ogni figlio a carico;"
+giuglianoincampania_01,1,18,che il nucleo familiare sia composto esclusivamente dal richiedente e dai figli.
+giuglianoincampania_01,1,19,"Una Riduzione del 30% per le coppie ultrasessantacinquenni, a condizione che:"
+giuglianoincampania_01,1,20,"l'indicatore della situazione economica equivalente (ISEE) della famiglia sia inferiore ad € 11.000,00;"
+giuglianoincampania_01,1,21,il nucleo familiare sia composto esclusivamente dalla coppia ultrasessantacinquenne.
+giuglianoincampania_01,1,22,"Per poter beneficiare delle riduzioni, di cui ai commi precedenti, dovrà essere presentata al protocollo generale del Comune apposita richiesta entro il termine perentorio del 31 maggio dell'anno di riferimento per il quale si chiede la riduzione (NEL CASO SPECIFICO 31-05-2024). Le richieste presentate oltre tale termine saranno considerate nulle e non si intenderanno presentate per l'anno successivo. Alla richiesta di riduzione deve essere allegata la documentazione a dimostrazione dei requisiti richiesti (non sono valide le certificazioni rilasciate ai sensi della legge 104/92 e le certificazioni ISEE che riportano annotazioni in calce), pena la decadenza del diritto."
+giuglianoincampania_01,1,23,"Per gli anni successivi i beneficiari della riduzione, per poter beneficiare della stessa, sono tenuti a presentare, obbligatoriamente, entro il termine di scadenza (31 maggio per l'anno di riferimento NEL CASO SPECIFICO 31-05-2024):"
+giuglianoincampania_01,1,24,la certificazione ISEE del nucleo familiare
+poncarale_01,1,1,Avviso di proroga pagamento Tari acconto 2025
+poncarale_01,1,2,"Avviso di proroga pagamento Tari acconto 2025, senza aggravio di spesa."
+poncarale_01,2,3,Data:
+poncarale_01,2,4,20/06/2025
+poncarale_01,3,5,Argomenti
+poncarale_01,3,6,Economia
+poncarale_01,3,7,Imposte
+poncarale_01,4,8,Tipologia di contenuto
+poncarale_01,4,9,Avviso
+poncarale_01,5,10,Descrizione
+poncarale_01,5,11,AVVISO ALLA CITTADINANZA
+poncarale_01,5,12,"Il pagamento relativo all'acconto TARI 2025 è da intendersi prorogato alla data del 30 giugno, senza alcun aggravio di spesa per l'utenza. I relativi avvisi di pagamento verranno inviati nei prossimi giorni."
+poncarale_01,6,13,A cura di
+poncarale_01,6,14,Ufficio Ragioneria - Tributi Commercio
+poncarale_01,6,15,"Amministra le finanze comunali, gestisce i tributi locali e supporta le attività commerciali presenti sul territorio."
+poncarale_01,7,16,Ultimo aggiornamento
+poncarale_01,7,17,Ultimo aggiornamento: 20/06/2025 12:27
+sommavesuviana_01,1,10,L'intervento si inserisce nell'ambito delle attività di igiene ambientale e messa in sicurezza di beni comunali.
+sommavesuviana_01,2,11,1. Oggetto dell'intervento
+sommavesuviana_01,2,12,L'appalto ha per oggetto:
+sommavesuviana_01,2,13,"Rimozione e smaltimento, secondo le normative vigenti, di rifiuti speciali e non;"
+sommavesuviana_01,2,14,"Disinfestazione, derattizzazione e sanificazione dei locali;"
+sommavesuviana_01,2,15,* Muratura dell'ingresso per impedire l'accesso non autorizzato e garantire la sicurezza dell'immobile.
+sommavesuviana_01,3,16,2. Sopralluogo obbligatorio
+sommavesuviana_01,3,17,"Ai fini della partecipazione, è obbligatorio effettuare un sopralluogo presso il sito oggetto dell'intervento entro la data prevista per la scadenza delle offerte. Le modalità e le date del sopralluogo saranno concordate con l'ufficio ecologia, inviando richiesta a mezzo pec all'indirizzo protocollo.generale@pec.sommavesuviana.info"
+sommavesuviana_01,4,18,3. Requisiti di partecipazione
+sommavesuviana_01,4,19,Possono presentare manifestazione di interesse gli operatori economici:
+sommavesuviana_01,4,20,* In possesso dei requisiti ai sensi del D.Lgs. 36/2023 e ss.mm.ii.
+sommavesuviana_01,5,21,Comune di Somma Vesuviana - Piazza Vittorio Emanuele III - 80049 Somma Vesuviana (NA) - C.F. 80021380631
+sommavesuviana_01,5,22,Tel. 081-8939-111 - protocollo.generale@pec.sommavesuviana.info
+sommavesuviana_01,6,23,4. Modalità di presentazione della manifestazione di interesse
+sommavesuviana_01,6,24,"La manifestazione di interesse, con allegata l'offerta in busta chiusa, dovrà pervenire entro e non oltre le ore 12,00 del giorno 25/09/2025 esclusivamente a mezzo protocollo del Comune di Somma Vesuviana sito in Piazza Vittorio Emanuele III n. 26:"
+sommavesuviana_01,6,25,Si fa presente che le istanze pervenute oltre l'orario e la data indicata non saranno prese in considerazione.
+sommavesuviana_01,6,26,Oggetto dell'istanza:
+sommavesuviana_01,6,27,"""Manifestazione di Interesse – Intervento locale comunale via Tenente Indolfi"""
+sommavesuviana_01,6,28,Alla manifestazione dovranno essere allegati:
+sommavesuviana_01,6,29,"Modulo di manifestazione di interesse (allegato A), compilato e sottoscritto;"
+sommavesuviana_01,6,30,Copia del documento di identità del sottoscrittore;
+sommavesuviana_01,6,31,Visura camerale aggiornata;
+sommavesuviana_01,6,32,Eventuali certificazioni professionali
+sommavesuviana_01,6,33,* Offerta in busta chiusa
+sora_01,1,15,"tale incarico risulta scaduto, ai sensi dell'art. 14 dello Statuto societario, che fissa la durata dell'Amministratore Unico a tre anni;"
+sora_01,1,16,VISTO
+sora_01,1,17,"il D.lgs. n. 175 del 19/08/2016 ""Testo unico in materia di Società a partecipazione pubblica"" e s.m.i., in particolare l'art. 11 rubricato ""Organi amministrativi e di controllo delle società a controllo pubblico"";"
+sora_01,2,18,RITENUTO di dover avviare le procedure per la nomina del nuovo Amministratore unico della suddetta società;
+sora_01,3,19,INVITA
+sora_01,3,20,"Tutti coloro che, avendone i requisiti professionali, hanno interesse alla candidatura ad Amministratore Unico della Società ""Ambiente e Salute Srl"" a presentare dichiarazione di disponibilità all'incarico entro e non oltre il 28/05/2025, ore 12,00."
+sora_01,3,21,"Detta dichiarazione (secondo il fac-simile allegato al presente avviso) dovrà essere indirizzata al Sindaco del Comune di Sora indicando nell'oggetto ""Dichiarazione di disponibilità alla nomina di Amministratore Unico della Società partecipata ""Ambiente e Salute Srl"" e potrà pervenire esclusivamente a mezzo pec all'indirizzo: comunesora@pec.it, entro la data di scadenza."
+sora_01,3,22,"Il presente avviso è pubblicato sul sito del Comune, nonché all'Albo Pretorio on-line."
+sora_01,3,23,"Non saranno considerate valide le domande pervenute ad indirizzo di posta elettronica non certificata del Comune, ancorché trasmesse da un indirizzo PEC."
+sora_01,3,24,La Dichiarazione dovrà essere formulata in conformità a quanto indicato nel modello allegato al presente avviso.
+sora_01,3,25,"La Dichiarazione e relativo curriculum vitae, redatti ai sensi dell'art. 47 del D.P.R. n. 445/2000 (dichiarazione sostitutiva di atto di notorietà), devono essere firmati dagli interessati - mediante firma digitale - allegando copia integrale di documento di identità, in corso di validità, pena l'invalidità, non sanabile, della candidatura stessa."
+casalesulsile_01,1,17,"Visto il Regolamento comunale di polizia urbana approvato con deliberazione del Consiglio Comunale n. 8 del 16.01.1998, ed in particolare l'articolo 5, rubricato cura e manutenzione di scarpate, fossi e terreni, estirpamento dell'erba e cura delle siepi e piante, di seguito riportato:"
+casalesulsile_01,1,18,"Ferme restando le particolari disposizioni di legge vigenti in materia a tutela delle strade e delle acque (C.d.S.) i proprietari di scarpate e fossi sono tenuti alla cura e manutenzione per la parte di loro competenza, impedendo scoscendimenti del terreno e regolando la crescita di arbusti ed altra vegetazione in modo che non sia impedito il deflusso delle acque. Qualsiasi terreno deve essere mantenuto in ordine provvedendo all'estirpamento delle erbe nonché alla potatura delle siepi e delle piante mantenendo posizioni di decoro e pulizia. Le siepi e le alberature in particolare dovranno esser tenute regolate in modo tale da non sporgere sulla pubblica via né costituire pericolo o intralcio per la viabilità, specie nei tratti in curva. Il Sindaco può emettere ordinanza per la manutenzione di scoli e terreni per quanto di competenza, ed in caso di inadempienza provvedere d'ufficio con addebito delle spese."
+casalesulsile_01,2,19,"Visto il Regolamento edilizio comunale approvato con deliberazione del Consiglio Comunale n. 22 del 14.05.2009 e s.m.i., ed in particolare l'articolo 36, rubricato decoro degli spazi, di seguito riportato:"
+casalesulsile_01,2,20,"Gli spazi liberi privati devono rispettare il decoro urbano, essere convenientemente sistemati e, ove possibile, devono essere mantenuti a verde preferibilmente arborato. A tale riguardo il responsabile dell'ufficio ha facoltà di imporre la manutenzione e la conservazione del verde, dei fossati, delle siepi ecc., e la rimozione di oggetti, depositi e materiali, insegne e quant'altro possa deturpare l'ambiente o costituire pregiudizio per la pubblica incolumità. Il responsabile dell'ufficio ha facoltà di imporre la recinzione e la manutenzione dei terreni non coltivati, privi di specifica destinazione, indecorosi o pericolosi. Il responsabile dell'ufficio, può, ingiungendo l'esecuzione delle opere di cui ai commi precedenti, indicare le modalità di esecuzione e fissare i termini di inizio e della ultimazione dei lavori, riservandosi l'intervento sostitutivo ai sensi della legislazione vigente."
+casalesulsile_01,3,21,"Visto inoltre che il periodo oggetto del presente atto è sovente interessato dalle dichiarazioni della Regione Veneto, ai sensi dell'art. 10 della Legge 21 novembre 2009 e art. 9 della Legge Regione 1° giugno 2022 n. 13, dello stato di grave pericolosità per gli incendi boschivi, date le contingenti condizioni meteo-climatiche e vegetazionali;"
+casalesulsile_01,4,22,"Ritenuto quindi di adottare le più idonee misure per attuare tutti gli interventi di gestione, pulizia e manutenzione volti a"
+foggia_01,1,30,"""D.TO L.VO 152/06 PARTE TERZA - CENTRO COMUNALE DI RACCOLTA RIFIUTI - COMUNE DI FOGGIA - VIA SPRECACENERE: PROROGA AUTORIZZAZIONE SCARICO ACQUE METEORICHE"""
+foggia_01,2,31,"con cui autorizzava, in via straordinaria e provvisoria, fino e non oltre al 30 Giugno 2026, il Comune di FOGGIA all'esercizio del Centro Comunale di raccolta rifiuti di proprietà del Comune stesso sito in Via Sprecacenere, nelle more della realizzazione delle opere di adeguamento al R.R. n. 26/2013, a condizione che le acque meteoriche siano convogliate in apposita vasca di raccolta idoneamente dimensionata e gestite con le modalità dei rifiuti liquidi e pertanto affidate a Ditte regolarmente autorizzate alla raccolta, trasporto e smaltimento dei rifiuti;"
+foggia_01,3,32,"RICHIAMATE le precedenti Determinazioni Dirigenziali della Provincia di Foggia n.1487 del 22.09.2023; n.1523 del 28.09.2023 e n. 561 del 09.04.2024, di autorizzazione straordinaria e temporanea nelle more del completamento dei lavori di adeguamento, ai sensi del R.R. n.26/2013;"
+foggia_01,4,33,CONSIDERATO
+foggia_01,4,34,"che la messa in servizio e l'apertura al pubblico del C.C.R., nell'ambito del servizio di raccolta differenziata, nelle more del perfezionamento e della definizione della concessione, è fondamentale ed essenziale al fine del raggiungimento degli obiettivi normativi della raccolta stessa ed affinché siano garantiti la tutela dell'ambiente e del decoro urbano nonché preservata l'igiene e la salute pubblica oltre a contenere e ridurre i costi dovuti alla gestione dei rifiuti solidi urbani;"
+foggia_01,5,35,DATO ATTO CHE:
+foggia_01,5,36,"il vigente appalto d'igiene urbana e servizi complementari prevede un'annuale campagna di comunicazione in materia ambientale condotta sul tema dell'educazione e sensibilizzazione alla corretta raccolta differenziata dei rifiuti al fine di evitare, inoltre, l'abbandono degli stessi;"
+foggia_01,5,37,"sono in corso attività, anche con l'ausilio della Polizia Locale, finalizzate a reprimere il fenomeno di abbandono dei rifiuti nelle aree rubane ed extraurbane;"
+foggia_01,6,38,"RITENUTO di coordinare gli orari di apertura e chiusura del prefato CCR con la messa in esercizio dei CCR di viale Kennedy e di Borgo Incoronata, al fine di garantire una continuità di servizio ed al fine di non eccedere i quantitativi orari previsti dal Piano Industriale dei servizi di igiene urbana;"
+foggia_01,7,39,VISTO in particolare l'art.50 del T.U.E.L. nella parte in cui recita:
+foggia_01,7,40,"""Le medesime ordinanze sono adottate dal sindaco, quale rappresentante della comunità locale, in relazione all'urgente necessità di interventi volti a superare situazioni di grave incuria o degrado del territorio, dell'ambiente e del patrimonio culturale o di pregiudizio del decoro e della vivibilità urbana"";"
+foggia_01,8,41,VISTI:
+foggia_01,8,42,il D.Lgs. n.267/2000 e ss.mm.ii.;
+foggia_01,8,43,l'art.50 del D.Lgs. n.267/2000 e ss.mm.ii.;
+toritto_01,9,39,TENUTO CONTO che:
+toritto_01,9,40,"- il servizio di raccolta, domiciliare o stradale, degli indumenti usati CER 20.01.10 non è incluso fra i servizi previsti nel contratto d'appalto rep. 2/2018;"
+toritto_01,9,41,"in data 31/10/2023 veniva sottoscritta con la società Noi Vivere s.r.l.s. di Bitonto (BA) Cod. Fisc./P.IVA E1207677970720, apposita E12, con decorrenza dalla data di sottoscrizione e sino al 31/10/2025, fatta salva la clausola di E11 scadenza in caso di individuazione di altro gestore da parte dell'Ufficio di ARO;"
+toritto_01,9,42,- in base a tale convenzione Noi Vivere s.r.l.s. assicura i seguenti servizi all'utenza:
+toritto_01,9,43,"* raccolta su chiamata, da parte degli utenti, dei rifiuti CER 20.01.10 (indumenti usati e relativi accessori);"
+toritto_01,9,44,"* il posizionamento di almeno due contenitori presso il Centro Comunale di Raccolta, a marchio brevettato, in lamiera zincata, conforme alle norme CEE in materia di sicurezza,"
+toritto_01,9,45,"Documento informatico firmato digitalmente ai sensi del D.lgs. n. 82/2005 s.m.i. e norme collegate, il quale sostituisce il documento cartaceo e la firma autografa"
+toritto_01,9,46,"con fondo a tenuta stagna, antintrusione, inamovibile, anti prelievo, antipioggia, doppia protezione atta ad evitare l'estrazione impropria del materiale contenuto;"
+toritto_01,9,47,"* attivazione di un call-center, con numero verde aziendale, al fine di fornire agli utenti le informazioni necessarie e propedeutiche all'ottimizzazione e all'espletamento del servizio (numero verde gratuito 800.031.679 - attivo dalle 8.30 - 13.00 dal lunedì al venerdì - e-mail prenotazione: servizio.portaporta@noivivere.it)"
+toritto_01,10,48,"CONSIDERATO inoltre che, nella borgata di Quasano, è stata posizionata un'isola ecologica, non informatizzata a 5 moduli da lt 1.000, utilizzabile con apposite chiavi, al fine di tener conto delle difficoltà oggettive degli utenti della borgata di Quasano di conferire i rifiuti (carta, plastica, vetro, indifferenziata, …) nei giorni prestabiliti, in quanto si recano nell'immobile della borgata prevalentemente nel fine settimana e/o nei giorni festivi in cui non è prevista la raccolta di tutte le tipologie di rifiuti;"
+toritto_01,11,49,RITENUTO di dover disciplinare il corretto utilizzo di tale isola ecologica;
+toritto_01,12,50,"RITENUTO pertanto, di dover:"
+toritto_01,12,51,"1. consentire l'utilizzo di tale isola solo alle utenze domestiche TARI a cui sono applicate le riduzioni del tributo per ""non residenti"" o per ""uso stagionale"", ricorrendone i requisiti previsti dalla normativa vigente;"
+toritto_01,12,52,"2. consegnare la chiave per l'apertura dell'isola ecologica, previa apposita richiesta inoltrata al competente ufficio comunale, solo agli utenti di cui al precedente punto 1;"
+toritto_01,12,53,"3. disporre che l'utilizzo della chiave sia riservata esclusivamente al titolare dell'utenza TARI autorizzata (o ad altra persona che risulti anagraficamente presente nel medesimo nucleo familiare), con conseguente divieto di concederne l'utilizzo o la riproduzione ad altro soggetto;"
+toritto_01,13,54,TENUTO CONTO altresì che:
+copparo_01,1,1,"Tari, stanziati 100mila euro per abbattere le bollette di cittadini e imprese"
+copparo_01,1,2,Il provvedimento volto a calmierare la tariffa sui rifiuti. Approvato anche il nuovo regolamento
+copparo_01,2,3,Data:
+copparo_01,2,4,01 Luglio 2025
+copparo_01,3,5,Tempo di lettura:
+copparo_01,3,6,1 min
+copparo_01,4,7,Argomenti
+copparo_01,4,8,- Accesso all'informazione
+copparo_01,4,9,- Imprese
+copparo_01,5,10,"[The image shows a hand holding a tied green plastic bag, presumably containing waste.]"
+copparo_01,6,11,Descrizione
+copparo_01,6,12,"Nella seduta del Consiglio comunale di Copparo, che si è tenuta mercoledì 25 giugno 2025, sono stati approvati il regolamento per la disciplina della tariffa rifiuti corrispettiva e gli schemi tariffari Tari per l'anno 2025, oltre alla presa d'atto dei piani economico finanziari per il periodo 2024-2025 redatti dalla società Clara che gestisce il servizio di raccolta. Ad illustrare i punti più significativi è stato l'assessore al Bilancio Simone Grandi, a partire da quelli relativi al regolamento."
+copparo_01,6,13,"Tra le novità, la possibilità per le utenze non domestiche che producono rifiuti urbani di conferire al di fuori del servizio pubblico i propri rifiuti ""in tutto"" o ""in parte"". Prima, la possibilità di uscire dal servizio pubblico per il conferimento di rifiuti non era esplicitato dalle norme e per questa ragione si è deciso di ovviare con una revisione del regolamento con l'aggiunta di uno specifico punto in cui è riportato l'iter che le imprese dovranno seguire."
+copparo_01,6,14,"Altra novità rivolta agli utenti è quella relativa al modello di dichiarazione sostitutiva per le riduzioni sul compostaggio individuale, sostituito da una versione elettronica: un aggiornamento giustificato dal fatto che le attività di sportello offerte dalla società Clara stanno sempre più volgendo verso l'informatizzazione e l'automazione, e dalla volontà di garantire un'ulteriore opportunità all'utente interessato."
+copparo_01,6,15,"In chiave futura, inoltre, si sta lavorando con la società Clara per l'introduzione di isole di flessibilizzazione sul territorio comunale: si tratta di particolari moduli costituiti da contenitori utilizzabili dalle utenze domestiche per conferire, in situazioni eccezionali, il rifiuto non riciclabile e l'umido organico; questo rappresenterebbe un ulteriore servizio a supporto del sistema di raccolta ""porta a porta""."
+copparo_01,6,16,"Riguardo al capitolo tariffe, il costo del servizio comprensivo di utenze domestiche e non domestiche sul territorio copparese ammonta a poco più di 4 milioni di euro. Nel Piano economico finanziario si registra un aumento delle bollette che, come riportato dall'assessore Grandi, è sostanzialmente dovuto al rapporto tra metri quadri e numeri di utenze domestiche e non domestiche, con il primo fattore che risulta in calo:"
+copparo_01,6,17,"«A fronte di ciò, con l'approvazione del Rendiconto di Bilancio 2024 – ha evidenziato Simone Grandi – l'Amministrazione comunale ha deciso di stanziare 100mila euro lordi per calmierare il costo delle bollette delle utenze domestiche e non domestiche del nostro territorio, e dare un po' di ossigeno ai nostri cittadini e alle nostre imprese»."
+copparo_01,7,18,A cura di
+copparo_01,7,19,Questa pagina è gestita da Persone
+copparo_01,8,20,Stampa
+copparo_01,8,21,"Ultimo aggiornamento: 02/07/2025, 12:14"
+rimini_01,1,6,17 Luglio 2025
+rimini_01,2,7,Tempo di lettura:
+rimini_01,2,8,3 minuti
+rimini_01,3,9,Argomenti
+rimini_01,3,10,Gestione rifiutiInquinamento
+rimini_01,4,11,Parole chiave
+rimini_01,4,12,Ambiente
+rimini_01,5,13,Descrizione
+rimini_01,5,14,"Aperti 3 nuovi sportelli, a Viserba, Miramare e nel Mercato Coperto, per la distribuzione della 'Carta Smeraldo'."
+rimini_01,5,15,"Il sistema di controllo contro l'abbandono irregolare dei rifiuti nel territorio comunale ha accertato, dall'inizio dell'anno, complessivamente, 93 violazioni. Per facilitare l'accesso ai servizi di raccolta, sono stati attivati tre nuovi punti di distribuzione della Carta Smeraldo."
+rimini_01,5,16,"L'attività di vigilanza ambientale prosegue attraverso il coordinamento tra Comune di Rimini, Hera e Guardie Ecologiche Volontarie. Il sistema di monitoraggio si basa sulla rotazione in diverse postazioni strategiche dove vengono installate fototrappole mobili, spostate periodicamente per garantire un controllo efficace delle aree più sensibili."
+rimini_01,5,17,"Dal 2021 il progetto di videosorveglianza ambientale, autorizzato dalla Prefettura, utilizza fotocamere che rimangono attive per circa una settimana per postazione, con tempi prolungati nelle zone più critiche. Tutti i siti monitorati sono adeguatamente segnalati nel rispetto della normativa sulla privacy."
+rimini_01,5,18,"Con particolare attenzione a determinata zone del territorio, considerate sensibili, l'attività di controllo svolta nell'anno in corso ha portato a 27 verbali, prodotti dalle fototrappole, mentre gli agenti accertatori di Hera hanno elevato 66 sanzioni, attraverso 218 verifiche dirette sul territorio. Una squadra specializzata di operatori Hera monitora quotidianamente diverse aree urbane, svolgendo anche funzioni di tutoraggio per assistere i cittadini nelle corrette modalità di conferimento."
+rimini_01,5,19,Le principali infrazioni rilevate riguardano l'abbandono di materiali presso i cassonetti stradali e l'errato smaltimento nei contenitori dedicati.
+rimini_01,5,20,"Le sanzioni prevedono multe di 200 euro per le utenze domestiche e 400 euro per quelle non domestiche. Dai dati emersi, un terzo delle violazioni ha interessato attività commerciali, con alcuni esercizi che hanno ricevuto sanzioni multiple per comportamenti reiterati."
+rimini_01,5,21,"L'attività investigativa non si limita all'analisi delle immagini, ma include verifiche dirette sui rifiuti abbandonati, con apertura dei sacchetti per identificare i responsabili attraverso documenti e bollette. Vengono inoltre controllati i contenitori per verificare la corretta separazione dei materiali."
+rimini_01,6,22,Nuovi punti di distribuzione della Carta Smeraldo
+rimini_01,6,23,"Per migliorare l'accesso ai servizi e prevenire conferimenti irregolari, sono stati attivati tre nuovi punti per la distribuzione gratuita della Carta Smeraldo, che consente l'apertura dei cassonetti per il conferimento dei rifiuti."
+rimini_01,6,24,"Il primo ha aperto martedì scorso, presso l'anagrafe di Viserba in via Mazzini 22, attivo ogni martedì dalle 14:00 alle 16:00."
+rimini_01,6,25,"Il secondo è operativo da questo pomeriggio, presso l'anagrafe di Miramare in Piazza Decio Raggi 2, ogni giovedì dalle 14:00 alle 16:00."
+rimini_01,6,26,"A partire dal 26 luglio sarà attivo anche il punto presso il Mercato Coperto in via Castelfidardo 15, ogni sabato dalle 9:00 alle 13:00."
+rimini_01,6,27,Il servizio è destinato agli utenti delle zone residenziali servite da contenitori stradali e può essere utilizzato dall'intestatario della TARI o da persona delegata.
+rimini_01,6,28,"Presso l'Isola Ecologica di via Oberdan è inoltre attivo un servizio di tutoraggio per fornire informazioni specifiche sul corretto conferimento dei rifiuti. L'obiettivo è rendere più accessibili i servizi di raccolta per tutti i cittadini, contribuendo a ridurre l'abbandono dei rifiuti e promuovere un ambiente più sano per la comunità."
+rimini_01,7,29,A cura di
+rimini_01,7,30,Ufficio stampa
+rimini_01,7,31,L'ufficio stampa è l'organo che diffonde notizie per conto dell'Ente. Redige i comunicati stampa.
+rimini_01,8,32,Maggiori informazioni a proposito di
+tribiano_01,1,2,9 novembre 2023
+tribiano_01,2,3,🚮🔵 FAQ NUOVO SERVIZIO RACCOLTA RIFIUTI E SPAZZAMENTO STRADE 🔵🚮
+tribiano_01,2,4,"❓ All'esito dell'incontro pubblico informativo svoltosi giovedì 26 ottobre, vengono pubblicate di seguito le domande più frequenti con le relative risposte."
+tribiano_01,3,5,Da quando partirà il servizio?
+tribiano_01,3,6,Il servizio partirà mercoledì 1° novembre con il ritiro di multipack e vetro.
+tribiano_01,3,7,Cosa ne sarà degli attuali bidoni utilizzati dai cittadini?
+tribiano_01,3,8,"Per evitare costi, sprechi e disagi, sarà possibile utilizzare ancora i bidoni già in possesso con la solita attribuzione dei colori."
+tribiano_01,3,9,Si chiede all'utenza semplicemente di indicare con un pennarello o un cartello il contenuto. Prossimamente verranno distribuiti degli adesivi da applicare ai bidoni.
+tribiano_01,3,10,Per i nuovi residenti e per chi vuole è possibile rispettare sin da subito i colori indicati dal nuovo ente incaricato.
+tribiano_01,3,11,Quali sono le più importanti novità?
+tribiano_01,3,12,"In particolare, rispetto alla precedente raccolta, si ricorda che il vetro verrà ritirato senza imballaggi in metallo. Quest'ultimi verranno ritirati come multipack, in un sacco trasparente, possibilmente giallo, insieme agli imballaggi in plastica e al tetrapak."
+tribiano_01,3,13,"Il secco non dovrà più essere conferito in sacchi neri bensì in sacchi trasparenti, possibilmente grigi."
+tribiano_01,3,14,I sacchi neri residui si possono ancora utilizzare?
+tribiano_01,3,15,"No. Come segno di discontinuità e rispetto delle prerogative di Cem Ambiente, il sacco nero non si potrà più utilizzare a partire dal 1º novembre."
+tribiano_01,3,16,Il sacco nero dovrà pertanto essere sostituito dal sacco grigio semitrasparente.
+tribiano_01,3,17,Il comune distribuirà i sacchetti?
+tribiano_01,3,18,No. I sacchetti saranno a carico dei cittadini. Il comune farà solo una prima distribuzione ai nuovi residenti.
+tribiano_01,3,19,I sacchetti trasparenti possono essere utilizzati anche di colori differenti da quelli previsti?
+tribiano_01,3,20,"In questa fase iniziale, se si è già in possesso di sacchetti trasparenti di altri colori, sarà possibile utilizzarli. Dopodiché sarà necessario adeguarsi a quanto indicato."
+tribiano_01,3,21,Come cambieranno gli spazzamenti?
+tribiano_01,3,22,"Il servizio di spazzamento sarà effettuato secondo un programma sperimentale che sarà presto comunicato. Nel frattempo, gli attuali divieti di sosta saranno sospesi in attesa di nuova definizione."
+tribiano_01,3,23,"Saranno, inoltre, previsti 3 interventi di pulizia manuale a settimana che comprenderanno anche lo svuotamento dei cestini."
+tribiano_01,3,24,Verrà distribuito un calendario?
+tribiano_01,3,25,Il calendario è già stato consegnato in formato mono-pagina in quanto il servizio di CEM è continuativo e sarà sospeso solo 4 giorni all'anno.
+tribiano_01,3,26,Il centro di raccolta rifiuti subirà delle modifiche?
+tribiano_01,3,27,L'accesso al centro di raccolta sarà consentito solo con la tessera sanitaria. Gli orari e i giorni non cambieranno.
+tribiano_01,3,28,Verrà effettuata la raccolta del verde porta a porta?
+tribiano_01,3,29,Per il momento il verde dovrà essere conferito presso il centro di raccolta.
+tribiano_01,3,30,In futuro sarà previsto un sondaggio per valutare la possibilità di attivare il servizio a pagamento solo per chi lo richiede.
+tribiano_01,3,31,Verrà effettuata la raccolta degli ingombranti porta a porta?
+tribiano_01,3,32,"Sì, per il ritiro dei rifiuti ingombranti i cittadini possono fissare un appuntamento chiamando il numero verde gratuito: 800-342-266"
+tribiano_01,3,33,Come faccio a sapere dove buttare i rifiuti?
+tribiano_01,3,34,"Tramite l'informativa distribuita, la sezione ""dove lo butto"" del sito web e il ""cerca"" dell'app di CEM Ambiente."
+tribiano_01,3,35,Come sarà possibile ottenere ulteriori informazioni e chiarimenti?
+tribiano_01,3,36,"Tramite l'applicazione di CEM Ambiente, il sito e i canali di informazione del Comune."
+tribiano_01,3,37,"Verranno, inoltre, svolte altre serate informative, compresi degli eventi nelle scuole."
+coriglianorossano_01,1,9,Presupposto
+coriglianorossano_01,1,10,Art. 2
+coriglianorossano_01,1,11,Definizione di rifiuto
+coriglianorossano_01,1,12,Art. 3
+coriglianorossano_01,1,13,Soggetti passivi
+coriglianorossano_01,1,14,Art. 4
+coriglianorossano_01,1,15,Locali e aree scoperte soggetti al tributo
+coriglianorossano_01,1,16,Art. 5
+coriglianorossano_01,1,17,Locali e aree scoperte non soggetti al tributo
+coriglianorossano_01,1,18,Art. 6
+coriglianorossano_01,1,19,Determinazione della superficie tassabile
+coriglianorossano_01,1,20,Art. 7
+coriglianorossano_01,1,21,Produzione di rifiuti speciali– riduzioni superficiarie
+coriglianorossano_01,1,22,Art. 8
+coriglianorossano_01,1,23,Riduzioni per le utenze non domestiche in caso di uscita dal servizio pubblico
+coriglianorossano_01,1,24,Art. 9
+coriglianorossano_01,1,25,Rifiuti urbani avviati al riciclo in modo autonomo
+coriglianorossano_01,1,26,Art. 10
+coriglianorossano_01,1,27,Procedura per la dimostrazione dell'avvenuto avvio a recupero o riciclo dei rifiuti urbani conferiti al di fuori del servizio pubblico di raccolta da parte delle utenze non domestiche
+coriglianorossano_01,1,28,Art. 11
+coriglianorossano_01,1,29,Determinazione della tariffa del tributo
+coriglianorossano_01,1,30,Art. 12
+coriglianorossano_01,1,31,Istituzioni scolastiche statali
+coriglianorossano_01,1,32,Art. 13
+coriglianorossano_01,1,33,Copertura dei costi del servizio rifiuti
+coriglianorossano_01,1,34,Art. 14
+coriglianorossano_01,1,35,Piano economico finanziario
+coriglianorossano_01,1,36,Art. 15
+coriglianorossano_01,1,37,Articolazione delle tariffe del tributo
+coriglianorossano_01,1,38,Art. 16
+coriglianorossano_01,1,39,Tariffa per le utenze domestiche
+coriglianorossano_01,1,40,Art. 17
+coriglianorossano_01,1,41,Determinazione del numero degli occupanti delle utenze domestiche
+coriglianorossano_01,1,42,Art. 18
+coriglianorossano_01,1,43,Tariffa per le utenze non domestiche
+coriglianorossano_01,1,44,Art. 19
+coriglianorossano_01,1,45,Classificazione delle utenze non domestiche
+coriglianorossano_01,1,46,Art. 20
+coriglianorossano_01,1,47,Obbligazione tributaria
+coriglianorossano_01,1,48,Art. 21
+coriglianorossano_01,1,49,Zone non servite
+coriglianorossano_01,1,50,Art. 22
+coriglianorossano_01,1,51,Riduzioni ed esenzioni per le utenze domestiche
+coriglianorossano_01,1,52,Art. 23
+coriglianorossano_01,1,53,Agevolazioneperlaraccoltadifferenziatadapartedelleutenzedomestiche
+coriglianorossano_01,1,54,Art. 24
+coriglianorossano_01,1,55,Riduzionipercompostaggiodomestico
+coriglianorossano_01,1,56,Art. 25
+coriglianorossano_01,1,57,Riduzione/esenzione per le utenze non domestiche non stabilmente attive
+coriglianorossano_01,1,58,Art. 26
+coriglianorossano_01,1,59,Altre agevolazioni
+coriglianorossano_01,1,60,Art. 27
+coriglianorossano_01,1,61,Cumulo di riduzioni
+coriglianorossano_01,1,62,Art. 28
+coriglianorossano_01,1,63,Finanziamento delle riduzioni. Esenzioni e agevolazioni
+coriglianorossano_01,1,64,Art. 29
+coriglianorossano_01,1,65,Tributo giornaliero
+coriglianorossano_01,1,66,Art. 30
+coriglianorossano_01,1,67,Tributo provinciale
+coriglianorossano_01,1,68,Art. 31
+coriglianorossano_01,1,69,Dichiarazione di inizio occupazione
+coriglianorossano_01,1,70,Art. 32
+coriglianorossano_01,1,71,Dichiarazione di variazione o cessazione
+coriglianorossano_01,1,72,Art. 33
+coriglianorossano_01,1,73,Termini per il pagamento
+coriglianorossano_01,1,74,Art. 34
+coriglianorossano_01,1,75,Modalità e strumenti di pagamento
+coriglianorossano_01,1,76,Art. 35
+coriglianorossano_01,1,77,Presentazione di richieste scritte di informazioni e richieste di rettifica degli importi addebitati
+coriglianorossano_01,1,78,Art. 36
+coriglianorossano_01,1,79,Modalità per l'ulteriore rateizzazione degli avvisi di pagamento
+coriglianorossano_01,1,80,Art. 37
+coriglianorossano_01,1,81,Rimborsi e compensazione
+coriglianorossano_01,1,82,Art. 38
+coriglianorossano_01,1,83,Funzionario responsabile
+coriglianorossano_01,1,84,Art. 39
+coriglianorossano_01,1,85,Verifiche ed accertamenti
+coriglianorossano_01,1,86,Art. 40
+coriglianorossano_01,1,87,Sanzioni ed interessi
+coriglianorossano_01,1,88,Art. 41
+coriglianorossano_01,1,89,Importi minimi
+coriglianorossano_01,1,90,Art. 42
+coriglianorossano_01,1,91,Trattamento dei dati personali
+coriglianorossano_01,1,92,Art. 43
+coriglianorossano_01,1,93,Norme finali e di rinvio
+coriglianorossano_01,1,94,Art. 44
+coriglianorossano_01,1,95,Entrata in vigore
+coriglianorossano_01,2,96,ART. 1
+coriglianorossano_01,2,97,PRESUPPOSTO
+coriglianorossano_01,2,98,"Presupposto della TARI è il possesso o la detenzione a qualsiasi titolo di locali o di aree scoperte a qualsiasi uso adibiti, suscettibili di produrre rifiuti urbani, identificati dal successivo art. 4."
+coriglianorossano_01,2,99,La mancata utilizzazione del servizio di gestione dei rifiuti urbani o l'interruzione temporanea dello stesso non comportano esonero o riduzione del tributo.
+coriglianorossano_01,2,100,"Il tributo è destinato alla copertura dei costi relativi al servizio di raccolta e smaltimento dei rifiuti, come individuati dalla legge, ad esclusione dei costi relativi ai rifiuti speciali al cui smaltimento provvedono a proprie spese i relativi produttori comprovandone l'avvenuto trattamento in conformità alla normativa vigente."
+coriglianorossano_01,2,101,"Per utenze domestiche si intendono tutti i locali destinati a civile abitazione e loro pertinenze, mentre per utenze non domestiche tutti i restanti locali ed aree soggetti al tributo, tra cui le comunità, le attività commerciali, artigianali, industriali, professionali e le attività produttive in genere."
+coriglianorossano_01,3,102,ART. 2
+coriglianorossano_01,3,103,DEFINIZIONE DI RIFIUTO
+coriglianorossano_01,3,104,"La definizione e la classificazione dei rifiuti urbani e speciali è disciplinata dalle disposizioni del Decreto Legislativo 3/04/2006, n. 152 (codice ambientale) come modificato dal D.Lgs 116/2020 e successive modificazioni e integrazioni."
+coriglianorossano_01,3,105,"Sono rifiuti urbani ai sensi dell'articolo 183, comma 1, lett. b ter D.Lgs 152/2006 e s.m.i.:"
+coriglianorossano_01,3,106,"a) i rifiuti domestici indifferenziati e da raccolta differenziata, ivi compresi: carta e cartone, vetro, metalli, plastica, rifiuti organici, legno, tessili, imballaggi, rifiuti di apparecchiatura elettriche ed elettroniche, rifiuti di pile e accumulatori e rifiuti ingombranti, ivi compresi materassi e mobili;"
+coriglianorossano_01,3,107,"b) i rifiuti indifferenziati e da raccolta differenziata provenienti da altre fonti che sono simili per natura e composizione ai rifiuti domestici indicati nell'allegato L – quater (ALLEGATO B) prodotti dalle attività riportate nell'allegato L‑ quinquies (ALLEGATO C)"";"
+coriglianorossano_01,3,108,c) i rifiuti provenienti dallo spazzamento delle strade e dallo svuotamento dei cestini portarifiuti;
+coriglianorossano_01,3,109,"d) i rifiuti di qualunque natura o provenienza, giacenti sulle strade ed aree pubbliche o sulle strade ed aree private comunque soggette ad uso pubblico o sulle spiagge marittime e lacuali e sulle rive dei corsi d'acqua;"
+coriglianorossano_01,3,110,"e) rifiuti della manutenzione del verde pubblico, come foglie, sfalci d'erba e potature di alberi, rifiuti provenienti dalla pulizia dei mercati;"
+trevignanoromano_01,1,25,ART. 16 CONFERIMENTI .............................................................. 11
+trevignanoromano_01,1,26,CAPITOLO 3 – RACCOLTA DIFFERENZIATA
+trevignanoromano_01,1,27,ART. 17 FINALITÀ E MODALITÀ OPERATIVE ............................................. 12
+trevignanoromano_01,1,28,ART. 18 AMBITO DISCIPLINATO ....................................................... 12
+trevignanoromano_01,1,29,ART. 19 I CONTENITORI ............................................................. 14
+trevignanoromano_01,1,30,ART. 20 OPERAZIONI DI RACCOLTA ................................................... 16
+trevignanoromano_01,1,31,ART. 21 TRASPORTO ................................................................ 16
+trevignanoromano_01,1,32,ART. 22 STAZIONAMENTO E DEPOSITO DEI MEZZI ....................................... 17
+trevignanoromano_01,1,33,ART. 23 STAZIONI DI CONFERIENTO ECOCENTRI .......................................... 17
+trevignanoromano_01,1,34,ART. 24 RACCOLTA DIFFERENZIATA DELLE FRAZIONI CARTACEE ......................... 17
+trevignanoromano_01,1,35,ART. 25 RACCOLTA DIFFERENZIATA DEL VETRO E DELLE LATTINE ....................... 18
+trevignanoromano_01,1,36,ART. 26 RACCOLTA DIFFERENZIATA DELLA PLASTICA .................................... 18
+trevignanoromano_01,1,37,ART. 27 RACCOLTA DIFFERENZIATA DELLA FRAZIONE VERDE ............................ 19
+trevignanoromano_01,1,38,ART. 28 RACCOLTA DIFFERENZIATA DELLA FRAZIONE ORGANICA ......................... 19
+trevignanoromano_01,1,39,ART. 29 RACCOLTA DIFFERENZIATA DELLE PILE ......................................... 20
+trevignanoromano_01,1,40,ART. 30 RACCOLTA DIFFERENZIATA DEI MEDICINALI SCADUTI .......................... 20
+trevignanoromano_01,1,41,ART. 31 RACCOLTA DIFFERENZIATA DELLE SIRINGHE .................................... 20
+trevignanoromano_01,1,42,ART. 32 ALTRE RACCOLTE DIFFERENZIATE E CONFERIMENTI SEPARATI .................. 21
+trevignanoromano_01,1,43,ART. 33 RIFIUTI INGOMBRANTI ........................................................ 21
+trevignanoromano_01,1,44,ART. 34 RIFIUTI INERTI ............................................................. 21
+trevignanoromano_01,1,45,ART. 35 RIFIUTI PROVENIENTI DA ATTIVITÀ CIMITERIALE ............................. 21
+trevignanoromano_01,1,46,ART. 36 ATTIVITÀ NON CONTINUATIVE .................................................. 22
+trevignanoromano_01,1,47,ART. 37 PESATA DEI RIFIUTI URBANI ................................................... 22
+trevignanoromano_01,1,48,CAPITOLO 4 – RACCOLTA INDIFFERENZIATA
+trevignanoromano_01,1,49,ART. 38 COLLOCAZIONE DEI CONTENITORI PER RIFIUTI URBANI ED ASSIMILATI
+trevignanoromano_01,1,50,INDIFFERENZIATI E RELATIVO ALLESTIMENTO .................................. 22
+trevignanoromano_01,1,51,ART. 39 CONFERIMENTO INDIFFERENZIATO DEI RIFIUTI URBANI E ASSIMILATI .......... 22
+trevignanoromano_01,1,52,CAPITOLO 5 - ALTRI SERVIZI OBBLIGATORI
+trevignanoromano_01,1,53,ART. 40 DEFINIZIONE DEGLI ALTRI SERVIZI OBBLIGATORI ............................. 23
+trevignanoromano_01,1,54,ART. 41 ORGANIZZAZIONE DEGLI ALTRI SERVIZI OBBLIGATORI .......................... 23
+trevignanoromano_01,1,55,ART. 42 SPAZZAMENTO STRADALE ...................................................... 24
+trevignanoromano_01,1,56,"ART. 43 LAVAGGIO STRADE, SOTTOPASSI ............................................... 24"
+trevignanoromano_01,1,57,ART. 44 DISERBO STRADALE .......................................................... 25
+trevignanoromano_01,1,58,Regolamento di gestione dei rifiuti urbani                     Comune di Trevignano Romano
+trevignanoromano_01,1,59,ART. 45     CESTINI STRADALI                                                   25
+trevignanoromano_01,1,60,ART. 46     RIFIUTI ABBANDONATI SUL TERRITORIO                                 25
+trevignanoromano_01,1,61,"ART. 47     PULIZIA AREE MERCATALI, FIERE E MANIFESTAZIONI                     25"
+trevignanoromano_01,1,62,ART. 48     SMALTIMENTO DEI RIFIUTI CIMITERIALI                                26
+trevignanoromano_01,1,63,ART. 49     DEIEZIONI CANINE                                                   26
+trevignanoromano_01,1,64,ART. 50     RACCOLTA CAROGNE ANIMALI                                           27
+trevignanoromano_01,1,65,ART. 51     AREE DI SOSTA TEMPORANEA                                           27
+trevignanoromano_01,1,66,CΑPΙΤOLO 6 – OBBLΙGHΙ Ε DΙVΙΕΤΙ                                               27
+trevignanoromano_01,1,67,ART. 52     DIVIETI                                                            27
+trevignanoromano_01,1,68,ART. 53     OBBLIGHI DEI PRODUTTORI DI RIFIUTI URBANI E ASSIMILATI             28
+trevignanoromano_01,1,69,ART. 54     OBBLIGHI DEI PRODUTTORI DI RIFIUTI SPECIALI                        28
+trevignanoromano_01,1,70,ART. 55     PULIZIA DELLE AREE PUBBLICHE OCCUPATE DA CANTIERI                  28
+trevignanoromano_01,1,71,ART. 56     PULIZIA DELLE AREE ESTERNE A PUBBLICI ESERCIZI                     29
+trevignanoromano_01,1,72,ART. 57     PULIZIA DEI TERRENI NON UTILIZZATI                                 29
+trevignanoromano_01,1,73,ART. 58     RIMOZIONE DI RIFIUTI ABUSIVAMENTE SCARICATI O ACCUMULATI IN AREE
+trevignanoromano_01,1,74,PRIVATE                                                            29
+trevignanoromano_01,1,75,CΑPΙΤOLO 7- ΝORΜΕ FΙΝΑLΙ                                                      30
+trevignanoromano_01,1,76,ART. 59     ORDINANZE CONTINGIBILI ED URGENTI                                  30
+trevignanoromano_01,1,77,ART. 60     CONTROLLI                                                          30
+trevignanoromano_01,1,78,ART. 61     OSSERVANZA DI ALTRE DISPOSIZIONI                                   31
+trevignanoromano_01,1,79,ART. 62     SANZIONI                                                           31
+trevignanoromano_01,1,80,ART. 63     ENTRATA IN VIGORE DEL REGOLAMENTO                                  33
+trevignanoromano_01,1,81,ART. 64     VARIAZIONI NON SOSTANZIALI ALLE PRESENTI NORME                     33
+trevignanoromano_01,1,82,ART. 65     ASSIMILAZIONE DEI RIFIUTI SPECIALI NON PERICOLOSI AGLI URBANI      33
+trevignanoromano_01,1,83,3
+trevignanoromano_01,2,84,"CAPITOLO 1 - DEFINIZIONI, COMPETENZE E DISPOSIZIONI GENERALI"
+trevignanoromano_01,3,85,ART. 1  OGGETTO DEL REGOLAMENTO
+trevignanoromano_01,3,86,"1- L'oggetto del presente regolamento è la disciplina dei servizi di gestione dei rifiuti in tutte le varie fasi di filiera: conferimento, raccolta, spazzamento, trasporto, recupero e smaltimento, nel rispetto dei principi di efficacia, efficienza ed economicità."
+trevignanoromano_01,3,87,"2- Il presente Regolamento è stato redatto ai sensi dell'art. 198, comma 2, del D.Lgs. n. 152/2006 e s.m.i., ed è coerente con le altre norme vigenti in materia."
+trevignanoromano_01,3,88,"3- Il regolamento è indirizzato a favorire la riduzione dei rifiuti alla fonte e il riutilizzo secondo le indicazioni contenute nelle norme nazionali, regionali ed in particolare secondo il Programma Provinciale."
+trevignanoromano_01,3,89,4- Il presente regolamento comunale ha valenza superiore a qualsiasi regolamento condominiale.
+trevignanoromano_01,4,90,ART. 2  CAMPO DI APPLICAZIONE
+trevignanoromano_01,4,91,1- Sono oggetto del presente regolamento:
+trevignanoromano_01,4,92,le disposizioni per assicurare la tutela igienico sanitaria in tutte le fasi della gestione dei rifiuti urbani;
+trevignanoromano_01,4,93,le modalità del servizio raccolta e trasporto dei rifiuti urbani;
+trevignanoromano_01,4,94,le modalità del conferimento della raccolta differenziata dei rifiuti urbani al fine di garantire una distinta gestione delle diverse frazioni di rifiuti e promuovere il recupero degli stessi;
+trevignanoromano_01,4,95,le modalità di raccolta differenziata dei rifiuti ingombranti;
+trevignanoromano_01,4,96,"le disposizione per la raccolta differenziata dei rifiuti urbani pericolosi che possono provocare problemi di impatto ambientale ad es. oli minerali, batterie per automobile, pile esauste, ecc."
+trevignanoromano_01,4,97,le disposizione per la raccolta differenziata di materiali inerti derivanti da costruzione e demolizione provenienti da piccole manutenzioni di utenze domestiche;
+trevignanoromano_01,4,98,le disposizione per la raccolta differenziata di rifiuti assimilati agli urbani di origine sanitaria derivanti da strutture pubbliche e private;
+trevignanoromano_01,4,99,le modalità di raccolta dei rifiuti assimilati ai rifiuti urbani;
+trevignanoromano_01,4,100,il trasporto e il conferimento ad impianti autorizzati di recupero e/o smaltimento per le specifiche tipologie di rifiuti;
+trevignanoromano_01,4,101,la modalità di esecuzione della pesata dei rifiuti urbani prima di inviarli al recupero e allo smaltimento.
+trevignanoromano_01,5,102,ART. 3  PRINCIPI E CONTENUTI DEL PRESENTE REGOLAMENTO
+trevignanoromano_01,5,103,"1- La gestione dei rifiuti, di qualsiasi provenienza, costituisce attività di interesse pubblico e come tale è disciplinata dal presente regolamento al fine di garantire la protezione dell'ambiente e dell'uomo."
+piacenza_01,1,1,COMUNE DI PIACENZA -
+piacenza_01,1,2,Servizio Gare e Contratti
+piacenza_01,2,3,BANDO DI GARA TELEMATICA
+piacenza_01,3,4,"1) Amministrazione aggiudicatrice: Comune di Piacenza, Piazza Cavalli 2 - 29121 Piacenza,"
+piacenza_01,4,5,punti di contatto: Servizio Gare e Contratti tel.: 0523492142 – posta elettronica:
+piacenza_01,4,6,"paola.mezzadra@comune.piacenza.it, - posta elettronica certificata:"
+piacenza_01,4,7,servizi.acquistiegare@cert.comune.piacenza.it; indirizzo internet: www.comune.piacenza.it.
+piacenza_01,5,8,"2) Indirizzo internet per l'accesso gratuito, illimitato e diretto ai documenti di gara:"
+piacenza_01,5,9,http://www.comune.piacenza.it - [https://appalti.comune.piacenza.it/PortaleAppalti])(https://appalti.comune.piacenza.it/PortaleAppalti)
+piacenza_01,6,10,3) Tipo di amministrazione aggiudicatrice e principali settori di attività: Ente locale
+piacenza_01,7,11,4) L'Amministrazione aggiudicatrice: non è una centrale di committenza
+piacenza_01,8,12,5) Codice CPV: 79940000-5
+piacenza_01,9,13,6) Codice NUTS: ITH51
+piacenza_01,10,14,7) Descrizione dell'appalto: natura:
+piacenza_01,10,15,"Procedura aperta per l'affidamento dei servizi e attività di supporto alla gestione ordinaria della Tari e all'attività di recupero insoluti per il periodo dal 01/01/2026, e comunque a far data dal verbale di consegna del servizio, sino al 31/12/2030."
+piacenza_01,11,16,8) Ordine di grandezza: Base di gara:
+piacenza_01,11,17,Descrizione
+piacenza_01,11,18,Importo (IVA esclusa) in €
+piacenza_01,11,19,Importo (IVA inclusa) in €
+piacenza_01,11,20,Importo a base d'asta (60 mesi)
+piacenza_01,11,21,"745.758,16"
+piacenza_01,11,22,"909.824,96"
+piacenza_01,11,23,Opzione di cui all'art. 120 comma 9 D. lgs. 36/2023 (20%)
+piacenza_01,11,24,"149.151,63"
+piacenza_01,11,25,"181.964,99"
+piacenza_01,11,26,Opzione di cui all'art. 120 comma 10 D. lgs. 36/2023 (Rinnovo per 12 mesi importo pari all'ammontare previsto per l'ultima annualità di appalto – 5° anno)
+piacenza_01,11,27,"71.501,91"
+piacenza_01,11,28,"87.232,33"
+piacenza_01,11,29,Valore stimato dell'appalto
+piacenza_01,11,30,"966.411,70"
+piacenza_01,11,31,"1.179.022,28"
+piacenza_01,11,32,"L'importo posto a base di gara comprende i costi della manodopera, non soggetti a ribasso e individuati al netto delle spese generali, che il Committente ha stimato pari a Euro 328.171,73 (Iva esclusa) nonché gli oneri per la sicurezza, che il Committente ha stimato pari a 0 Euro (ZERO)."
+piacenza_01,11,33,L'importo soggetto a ribasso è pari a:
+piacenza_01,11,34,"Euro 745.758,16 (Iva esclusa)"
+piacenza_01,12,35,9) Varianti: sono ammesse varianti come da Norme di Gara
+piacenza_01,13,36,10) Durata del contratto: 5 anni.
+piacenza_01,14,37,11) Condizioni di partecipazione:
+piacenza_01,14,38,"Gli operatori economici devono possedere i requisiti di partecipazione di Legge, sono richiesti requisiti di idoneità, di capacità economica, tecnica e professionale per i quali si rimanda alle norme di gara pubblicate sul sito internet www.comune.piacenza.it - [https://appalti.comune.piacenza.it/PortaleAppalti])(https://appalti.comune.piacenza.it/PortaleAppalti)."
+piacenza_01,15,39,12) Tipo di procedura di aggiudicazione:
+piacenza_01,15,40,procedura aperta a sensi dell'art. 71 del D. Lgs. n° 36/2023.
+piacenza_01,16,41,14) Suddivisione in lotti: No
+piacenza_01,17,42,18) Criterio di aggiudicazione:
+piacenza_01,17,43,Offerta Economicamente più Vantaggiosa individuata sulla base del miglior rapporto qualità/prezzo art. 108 comma 1 - del D. Lgs. n° 36/2023.
+piacenza_01,18,44,19) Termine per il ricevimento delle offerte:
+piacenza_01,18,45,data: 20/10/2025 Ora: 12:00.
+piacenza_01,19,46,20) Indirizzo presso il quale le offerte devono essere trasmesse:
+piacenza_01,19,47,attraverso il portale appalti: [https://appalti.comune.piacenza.it/PortaleAppalti])(https://appalti.comune.piacenza.it/PortaleAppalti) .
+piacenza_01,19,48,21.a) Periodo minimo durante il quale l'offerente è vincolato alla propria offerta:
+piacenza_01,19,49,fino a 180 giorni dal termine ultimo per il ricevimento delle offerte.
+piacenza_01,19,50,21.b) Modalità di apertura delle offerte:
+piacenza_01,19,51,Data: 21/10/2025 Ora: 09:30
+piacenza_01,19,52,Luogo: Comune di Piacenza – Piazza Cavalli 2.
+piacenza_01,19,53,21.c) Persone ammesse ad assistere all'apertura delle offerte:
+piacenza_01,19,54,La partecipazione avviene per le ditte concorrenti mediante collegamento da remoto alla Piattaforma tramite la dotazione informatica di ciascun soggetto interessato e consentirà di visualizzare le operazioni svolte sulla Piattaforma.
+piacenza_01,20,55,22) Lingua utilizzabile nelle offerte:
+piacenza_01,20,56,esclusivamente Lingua Italiana
+piacenza_01,21,57,23.a) E' obbligatoria la presentazione per via elettronica delle offerte.
+piacenza_01,21,58,23.c) E' obbligatoria la fatturazione elettronica
+piacenza_01,22,59,25) Organo Responsabile delle procedure di ricorso:
+piacenza_01,22,60,TAR Emilia Romagna con sede in Parma – Termini per la proposizione del ricorso: 30 giorni
+piacenza_01,23,61,30) Informazioni supplementari:
+piacenza_01,23,62,le Norme di gara e il Capitolato Speciale d'appalto sono disponibili presso l'indirizzo di cui al precedente punto 1 e sono scaricabili dal sito internet www.comune.piacenza.it - [https://appalti.comune.piacenza.it/PortaleAppalti])(https://appalti.comune.piacenza.it/PortaleAppalti).
+piacenza_01,23,63,Responsabile del progetto: Dott.ssa Roberta Vanzo in virtù della Determina Dirigenziale n. 2306 del 02/09/2025.
+piacenza_01,23,64,Determina a contrattare n. 2354 del 05/09/2025.
+piacenza_01,23,65,Le comunicazioni inerenti l'appalto verranno inviate tramite posta certificata e/o attraverso il portale https://appalti.comune.piacenza.it/PortaleAppalti.
+piacenza_01,23,66,CIG: B83F885FB6
+piacenza_01,24,67,La Responsabile del Progetto
+piacenza_01,24,68,Dott.ssa Roberta Vanzo
+roma_01,1,67,"Il dirigente, selezionato e assunto a tempo determinato ad esito della presente procedura, integra l'organico dirigenziale capitolino e, con specifico riferimento alla professionalità come sopra indicata e descritta, sarà incaricato delle funzioni dirigenziali con apposito provvedimento del Sindaco a copertura della posizione oggetto del presente avviso, anche in caso di differente livello organizzativo e funzionale della stessa a seguito di modifiche e integrazioni dell'assetto macro-strutturale dell'Ente intervenute successivamente alla pubblicazione dell'Avviso, ferma restando la compiuta rispondenza a queste ultime dei requisiti, degli ambiti conoscitivi e delle competenze ed esperienze possedute dal candidato selezionato e previste al presente avviso, quali evincibili dal curriculum fornito a corredo dell'istanza di partecipazione."
+roma_01,1,68,"L'Amministrazione si riserva la facoltà, senza che i candidati possano avanzare alcuna pretesa, di:"
+roma_01,1,69,prorogare il termine di scadenza della selezione pubblica;
+roma_01,1,70,riaprire tale termine allorché lo stesso sia già scaduto;
+roma_01,1,71,revocare la presente selezione.
+roma_01,1,72,Il presente Avviso di Selezione viene pubblicato all'Albo Pretorio di Roma Capitale e sul sito internet di Roma Capitale (www.comune.roma.it) con avviso pubblicato sulla Gazzetta Ufficiale - 4^ Serie Speciale Concorsi ed Esami.
+roma_01,2,73,Il Direttore della Direzione
+roma_01,2,74,Programmazione e Reperimento Risorse
+roma_01,2,75,Umane
+roma_01,2,76,dott.ssa Lucia Roncaccia
+roma_01,3,77,ALLEGATO 1
+roma_01,3,78,"AVVISO PUBBLICO FINALIZZATO ALLA RICERCA DI CANDIDATURE PER LA COPERTURA DELLA POSIZIONE DIRIGENZIALE DI DIRETTORE DELLA DIREZIONE CICLO DEI RIFIUTI E RISANAMENTO AMBIENTALE DEL DIPARTIMENTO CICLO DEI RIFIUTI, PREVENZIONE E RISANAMENTO DAGLI INQUINAMENTI DI ROMA CAPITALE, MEDIANTE COSTITUZIONE DI RAPPORTO DI LAVORO A TEMPO DETERMINATO AI SENSI DELL'ART. 110, COMMA 1, D.LGS. N.267/2000,"
+roma_01,4,79,Il/La sottoscritto/a
+roma_01,4,80,"_____________________________________________________________ (cognome e nome),"
+roma_01,4,81,Codice Fiscale:
+roma_01,4,82,"______________________________________, nato/a ___________________(città) prov. ____ il __________________(giorno - mese - anno) residente a ___________________________(città) ___________ prov. ____ in Via/Piazza________________________________n.____ cap.____________ con recapito in Via/Piazza _______________________________n.____ cap.________ città _______________________________ prov. _____; tel. ______________________ cell. __________________________; e.mail ___________________________________________________"
+roma_01,5,83,CHIEDE
+roma_01,5,84,"con riferimento all'Avviso pubblico indicato in oggetto, di essere ammesso a partecipare alla relativa selezione."
+roma_01,5,85,"A tal fine dichiara sotto la propria personale responsabilità e consapevole delle sanzioni penali previste dall'art. 76 del D.P.R. n. 445 del 28.12.2000, per le ipotesi di falsità in atti e di dichiarazioni mendaci:"
+roma_01,5,86,[ ] di essere in possesso della seguente competenza tecnica connessa alla peculiarità dell'ambito lavorativo dell'incarico professionale oggetto del presente avviso
+roma_01,5,87,"comprovata esperienza di lavoro e specifica professionalità non inferiore al triennio maturata presso Amministrazioni Pubbliche, ovvero Enti pubblici o privati, Aziende pubbliche o private, Enti o Organismi internazionali oggetto dell'incarico da conferire, con responsabilità organizzativa e gestionale di strutture e/o servizi complessi, privilegiando in tale contesto i compiti di natura dirigenziale, con particolare riferimento ai seguenti ambiti di attività:"
+roma_01,5,88,1) procedimenti connessi alla gestione dei rifiuti nell'ambito delle Pubbliche Amministrazioni;
+roma_01,5,89,2) Contratti di Servizio in materia di gestione dei rifiuti urbani;
+roma_01,5,90,3) Piani Economici Finanziari in materia di gestione rifiuti secondo la nuova metodologia di calcolo ARERA;
+roma_01,5,91,4) bonifica e risanamento ambientale dei suoli;
+roma_01,5,92,[ ] di essere in possesso della cittadinanza italiana;
+roma_01,5,93,[ ] di essere iscritto/a nelle liste elettorali del Comune di ___________;
+roma_01,5,94,ovvero di non essere iscritto per i seguenti motivi:
+roma_01,5,95,___________;
+roma_01,5,96,"[ ] la regolare posizione nei riguardi degli obblighi di leva (per i candidati di sesso maschile, nati entro il 31 dicembre 1985);"
+roma_01,5,97,___________;
+roma_01,5,98,[ ] idoneità psicofisica allo svolgimento delle funzioni cui la procedura selettiva si riferisce;
+roma_01,5,99,"[ ] di essere in possesso della seguente laurea (specialistica, magistrale o diploma di laurea del vecchio ordinamento) e ogni altro diploma di laurea equiparato e/o equipollente a norma di legge, conseguito presso Università o Istituti di Istruzione Universitaria legalmente riconosciuti (specificare titolo di studio e relativa classe di laurea, l'Istituto Universitario, anno di conseguimento e votazione riportata, nonché, in caso di titolo conseguito all'estero, estremi del provvedimento di equivalenza, del titolo di studio posseduto, al titolo di studio richiesto dal presente bando, così come previsto dall'art. 38 del D. Lgs. 30.03.2001, ovvero dichiarazione di aver avviato l'iter procedurale per l'equivalenza del proprio titolo di studio):"
+sangiorgiodipiano_01,1,1,COMUNE DI SAN GIORGIO DI PIANO
+sangiorgiodipiano_01,1,2,CITTA' METROPOLITANA DI BOLOGNA
+sangiorgiodipiano_01,1,3,AREA PROGRAMMAZIONE E GESTIONE TERRITORIO
+sangiorgiodipiano_01,2,4,DETERMINAZIONE NR. 126 DEL 12/09/2025
+sangiorgiodipiano_01,3,5,OGGETTO:
+sangiorgiodipiano_01,3,6,"DETERMINAZIONE DELL'AREA ""PROGRAMMAZIONE E GESTIONE DEL TERRITORIO"" N. 29 DEL 14/03/2025 AVENTE PER OGGETTO:"
+sangiorgiodipiano_01,3,7,"""SERVIZIO DI RACCOLTA E SMALTIMENTO DEI RIFIUTI MISTI DELL'ATTIVITA' DI COSTRUZIONE E DEMOLIZIONE. IMPEGNO DI SPESA."" - INTEGRAZIONE IMPEGNO DI SPESA."
+sangiorgiodipiano_01,4,8,FIRMATO
+sangiorgiodipiano_01,4,9,Il Direttore dell'Area
+sangiorgiodipiano_01,4,10,Elena Chiarelli
+sangiorgiodipiano_01,5,11,"Documento prodotto in originale informatico e firmato digitalmente ai sensi dell'art. 20 del ""Codice dell'amministrazione digitale"" (D.Leg.vo 82/2005)."
+sangiorgiodipiano_01,6,12,Determinazione n. 126 del 12/09/2025
+sangiorgiodipiano_01,7,13,IL DIRETTORE
+sangiorgiodipiano_01,7,14,adotta la seguente determinazione.
+sangiorgiodipiano_01,7,15,"Richiamata la determinazione dell'Area ""Programmazione e Gestione del Territorio"" n. 29 del 14/03/2025, esecutiva, con la quale si è stabilito di procedere allo smaltimento dei rifiuti prodotti da attività di demolizione e ricostruzione eseguite in economia diretta in cantieri di proprietà comunale avvalendosi della Società Herambiente Servizi Industriali s.r.l., con sede a Bologna, per un importo di € 2.080,00 oltre iva;"
+sangiorgiodipiano_01,8,16,Considerato che:
+sangiorgiodipiano_01,8,17,"l'importo predetto comprende i costi del noleggio del cassone scarrabile, le analisi di caratterizzazione analitica, il trasporto e lo smaltimento dei rifiuti;"
+sangiorgiodipiano_01,8,18,"in seguito alla prima operazione di smaltimento dei rifiuti, la quantità conferita è risultata superiore a quella stimata per l'assunzione dell'impegno di spesa;"
+sangiorgiodipiano_01,9,19,"Ritenuto, pertanto, opportuno integrare l'impegno di spesa codice DAREA40029 sub 0001 sul bilancio 2025/PEG 2025 per un importo di € 2.415,00 oltre iva;"
+sangiorgiodipiano_01,9,20,Visti:
+sangiorgiodipiano_01,10,21,lo Statuto Comunale;
+sangiorgiodipiano_01,10,22,il regolamento di contabilità;
+sangiorgiodipiano_01,10,23,"l'art. 107, comma 3, del decreto legislativo 267/2000;"
+sangiorgiodipiano_01,10,24,"l'art. 6 bis della L. 241/90, e dato atto di non trovarsi in condizione di conflitto di interessi anche potenziale in merito all'adozione del presente provvedimento;"
+sangiorgiodipiano_01,10,25,"la deliberazione del Consiglio Comunale n. 62 del 16/12/2024, esecutiva, con la quale è stata approvata la Nota di Aggiornamento al Documento Unico di Programmazione per il periodo 2025/2027 e ss.mm.ii.;"
+sangiorgiodipiano_01,10,26,"la deliberazione di Consiglio Comunale n. 63 del 16/12/2024, esecutiva, di approvazione del bilancio di previsione finanziario per il periodo 2025/2027 e ss.mm.ii.;"
+sangiorgiodipiano_01,10,27,"il PEG 2025, esecutivo;"
+sangiorgiodipiano_01,10,28,Accertate la disponibilità di fondi sui quali imputare la spesa e la regolarità contributiva della ditta (INPS_46083905);
+sangiorgiodipiano_01,11,29,"Dato atto che il presente provvedimento è esecutivo con l'apposizione del visto di regolarità contabile attestante la copertura finanziaria da parte del Direttore dell'Area Finanziaria ai sensi dell'art. 147-bis, comma 1, Decreto Legislativo 267/2000;"
+sangiorgiodipiano_01,12,30,DETERMINA
+sangiorgiodipiano_01,12,31,"Per i motivi esposti in premessa,"
+sangiorgiodipiano_01,12,32,Determinazione n. 126 del 12/09/2025
+sangiorgiodipiano_01,12,33,"1) di integrare l'impegno di spesa codice DAREA40029 sub 0001 assunto sul capitolo 109503 art. 1300 a favore di Heramabiente Servizi Industriali s.r.l., con sede a Bologna, per un importo di € 2.946,30 iva compresa – CIG B59D95C423;"
+sangiorgiodipiano_01,12,34,"2) di accertare, ai sensi e per gli effetti di cui all'articolo 183, comma 8, del d.Lgs. n. 267/2000, che il seguente programma dei pagamenti è compatibile con gli stanziamenti di bilancio e con i vincoli di finanza pubblica:"
+sangiorgiodipiano_01,12,35,Anno di pagamento
+sangiorgiodipiano_01,12,36,Importo
+sangiorgiodipiano_01,12,37,2025
+sangiorgiodipiano_01,12,38,"€ 2.946,30"
+sangiorgiodipiano_01,12,39,3) di dare atto che:
+sangiorgiodipiano_01,12,40,è stata accertata la regolarità contributiva della Ditta;
+sangiorgiodipiano_01,12,41,il codice univoco di fatturazione è il seguente UFVL07;
+sangiorgiodipiano_01,12,42,il relativo provvedimento di liquidazione verrà predisposto ai sensi del vigente regolamento di contabilità.
+siracusa_01,1,21,Copia conforme per la pubblicazione di documento informatico - CAD - D.lgs 82/2005
+siracusa_01,2,22,DETERMINA DIRIGENZIALE
+siracusa_01,3,23,Premesso che:
+siracusa_01,3,24,"il comune di Siracusa, in ossequio alla normativa vigente, effettua la raccolta differenziata dei rifiuti urbani con il sistema porta a porta;"
+siracusa_01,3,25,"con la determina n. 65 del 05/03/2020 è stato aggiudicato l'appalto settennale del Servizio di gestione dei rifiuti urbani e assimilati, classificato come ""verde"" ai sensi del D. M. 13/02/14, all'interno dell'ARO del comune di Siracusa, alla TEK.R.A. S.r.l., P. IVA 04653190654, con sede in Angri (SA) via Renato Raiola n. 59;"
+siracusa_01,3,26,il suddetto servizio è stato avviato in data 1° luglio 2020;
+siracusa_01,3,27,"il predetto servizio prevede, la raccolta differenziata dei rifiuti Ingombranti codice CER 200307, prodotta nell'Aro di Siracusa;"
+siracusa_01,4,28,Considerato che:
+siracusa_01,4,29,l'affidamento in atto è in scadenza;
+siracusa_01,4,30,"occorre provvedere alla raccolta dei rifiuti in oggetto in maniera continuativa, per scongiurare l'insorgere di problemi igienico-sanitari e non interrompere un servizio pubblico essenziale."
+siracusa_01,4,31,Che sono in continuo aumento le criticità connesse alle microdiscariche abusive;
+siracusa_01,4,32,l'impianto presso il quale veniva conferito il rifiuto in oggetto sta raggiungento il limite autorizzato;
+siracusa_01,5,33,Verificato che:
+siracusa_01,5,34,"la quantità dei rifiuti Ingombranti codice CER 200307 prodotta nell'Aro di Siracusa ammonta mensilmente a circa 130 tonn, come da dati di raccolta differenziata comunicati dalla TEK.R.A., gestore del servizio di igiene urbana;"
+siracusa_01,6,35,Visto che:
+siracusa_01,6,36,"è intenzione di questa Amministrazione affidare il ""Servizio di smaltimento CER 200307 rifiuti ingombranti"" provenienti da raccolta differenziata prodotti all'interno dell'ARO di Siracusa, con procedura negoziata sotto soglia su piattaforma elettronica net4market, ai sensi del D. lgs 36/2023 su piattaforma elettronica;"
+siracusa_01,6,37,il codice CPV è 90510000 Trattamento e smaltimento dei rifiuti;
+siracusa_01,6,38,"il valore dell'appalto è di 219.900,00 euro."
+siracusa_01,7,39,Dato atto che:
+siracusa_01,7,40,"è necessario costituire un gruppo di lavoro tecnico ed amministrativo che affianchi il RUP per la stesura degli atti di gara (Disciplinare, Bando, Capitolato Speciale), per la predisposizione ed il controllo delle procedure di gara, per la Direzione dell'esecuzione del contratto e per le verifiche di conformità;"
+siracusa_01,7,41,"che l'art. 15 del D. Lgs. n. 36/2023, allegato 1.2 indica i ruoli e le funzioni del Responsabile del Progetto (R.U.P.) negli appalti e nelle concessioni;"
+siracusa_01,7,42,"ai sensi dell'art. 31 dell'allegato I.9 del D. Lgs. 36/2024 ""L'incarico di direttore dell'esecuzione del contratto è ricoperto dal RUP a eccezione dei contratti aventi a oggetto servizi e forniture di particolare importanza, come disciplinati dall'articolo 32"" e che il successivo e richiamato art. 32 dell'allegato II.14 al comma 2 let. g) individua come servizi di particolare importanza ""eliminazione di scarichi di fogna e di rifiuti; disinfestazione e servizi analoghi"";"
+siracusa_01,7,43,che l'art. 41 del D. Lgs. n. 36/2023 prevede che la progettazione dei servizi e forniture è articolata in un unico livello ed è predisposta dalle stazioni appaltanti e dagli enti concedenti mediante propri dipendenti in servizio.
+siracusa_01,8,44,Copia conforme per la pubblicazione di documento informatico - CAD - D.lgs 82/2005
+siracusa_01,9,45,DETERMINA DIRIGENZIALE
+siracusa_01,10,46,RITENUTO:
+siracusa_01,10,47,"che, per quanto sopra esposto, il Responsabile Unico del Progetto potrà svolgere i propri compiti con il supporto dei dipendenti dell'amministrazione, istituendo una struttura stabile come di seguito descritta:"
+siracusa_01,10,48,"R.U.P. Responsabile unico del progetto, l'Arch. Alessandro Ferro, che possiede i requisiti professionali previsti dalla normativa per espletare l'incarico (fase di progettazione e fase di esecuzione);"
+siracusa_01,10,49,"D.E.C. Direttore dell'esecuzione del contratto, l'Arch. Maria Di Gaetano, che possiede i requisiti professionali previsti dalla normativa per espletare l'incarico (fase di esecuzione);"
+siracusa_01,10,50,"* predisposizione e controllo delle procedure di gara il Rag. Antonio Iuvara, che possiede i requisiti professionali previsti dalla normativa per espletare l'incarico (fase di progettazione e fase di esecuzione);"
+siracusa_01,10,51,Collaboratori tecnici amministrativi come di seguito elencato:
+siracusa_01,10,52,PROCEDURA affidamento
+siracusa_01,10,53,%
+siracusa_01,10,54,%
+siracusa_01,10,55,%
+siracusa_01,10,56,Nome del dipendente
+siracusa_01,10,57,Attività del responsabile unico del procedimento
+siracusa_01,10,58,"20,00%"
+siracusa_01,10,59,FERRO ALESSANDRO
+siracusa_01,10,60,Fase fino alla stipula del contratto
+siracusa_01,10,61,"10,00%"
+siracusa_01,10,62,"20,00%"
+siracusa_01,10,63,Fase di esecuzione dei servizi
+siracusa_01,10,64,"10,00%"
+siracusa_01,10,65,Attività del responsabile fase programmazione - progettazione e esecuzione
